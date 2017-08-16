@@ -9,9 +9,6 @@ permalink: /contact.php.html
 
 	<meta name="description" content="John Cammack" />
 
-	<meta name="keywords" content="John CammackJohn Cammack, Financial management, Training Consultancy, Finance for non-financial managers, Financial, Finance, Management accounting, Capacity building, Accounting, NGOs, Charities, Non-profit organisations, Training trainers, Financial communication" />
-		<meta http-equiv="imagetoolbar" content="no" />
-	<meta content="TRUE" name="MSSmartTagsPreventParsing" />
 	<meta name="author" content="Eye Division" />
 	<meta name="Copyright" content="Copyright (c) John Cammack" />
 	<meta http-equiv="Expires" content="-1" />
@@ -35,33 +32,35 @@ permalink: /contact.php.html
 <p>John welcomes exploratory, no-obligation approaches from organisations and individuals about their specific needs. </p>
 <p>Rates are competitive with lower rates for small NGOs/charities.</p>
 <p>Contact him by email using the form below, <br />or <strong>telephone:</strong> +44 (0)1865 762393<br /><strong>fax:</strong> +44 (0)1865 762393<br /><strong>Skype:</strong> johncammack&nbsp;&nbsp; <strong><a href="http://www.skype.com/intl/en-gb/get-skype/on-your-computer/windows/" target="_blank">Get Skype</a></strong> and call John for free</p>
-
+<!--
+<input type="hidden" name="_to" value="johncammack@btinternet.com">
+            <input type="hidden" name="_cc" value="a.ward@eyedivision.com">
+-->
 
 <form action="/thanks/" method="post" id="contact-form">
 
       <fieldset>
 
-            <input type="hidden" name="_to" value="johncammack@btinternet.com">
-            <input type="hidden" name="_cc" value="a.ward@eyedivision.com">
-            <input type="hidden" name="_subject" value="Web form">
-            <p>
-            <label for="name">Name:</label>
-            <input type="text" name="name">
-            </p>
-            <p>
-            <label for="_replyto">Email:</label>
-            <input type="text" name="_replyto">
-            </p>
-            <p>
-            <label>Message</label>
-            <textarea name="message"></textarea>
-            </p>
-            {% if site.recaptcha_site_key %}
-            <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
-            {% endif %}
+        <input type="hidden" name="_to" value="a.ward@eyedivision.com">
+        <input type="hidden" name="_subject" value="Web form">
         <p>
-            <input type="submit" value="Send message">
-            </p>
+        <label for="name">Name:</label>
+        <input type="text" name="name">
+        </p>
+        <p>
+        <label for="_replyto">Email:</label>
+        <input type="text" name="_replyto">
+        </p>
+        <p>
+        <label>Message</label>
+        <textarea name="message"></textarea>
+        </p>
+        {% if site.recaptcha_site_key %}
+        <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
+        {% endif %}
+        <p>
+          <input type="submit" value="Send message">
+         </p>
       </fieldset>
 
       </form>
@@ -73,9 +72,6 @@ permalink: /contact.php.html
 	<a href="index.php.html" class="nonBorder" accesskey="2"><img src="images/johncammacklogo.gif" alt="John Cammack" width="460" height="72" align="left" border="0" /></a><br />
 	training and consultancy for<br />
 	non-government organisations	</div>
-	<!-- <div id="credits">
-	&copy; 2017 John Cammack <img src="/images/ed_logo15x15w.gif" alt="site design by Eye Division" width="15" height="15" /> <a href="http://www.eyedivision.com" title="Site by Eye Division" target="_blank">Eye Division</a>
-	</div> -->
 
 </div>	<!-- end container -->
 </body>
