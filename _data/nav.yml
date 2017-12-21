@@ -1,8 +1,26 @@
-- title: "Posts"
-  href: "/posts/"
-  
-- title: "Projects"
-  href: "/projects/"
-  
+- title: "Home"
+  href: "/"
+
+- title: "Contact"
+  href: "/contact/"
+
 - title: "About"
   href: "/about/"
+
+- title: "Training"
+  href: "/training/"
+
+- title: "Advisory"
+  href: "/consultancy/"
+
+- title: "Publications"
+  href: "/publications/"
+
+- title: "Research"
+  href: "/research/"
+
+- title: "Resources"
+  href: "/resources/"
+
+- title: "Links"
+  href: "/links/"
