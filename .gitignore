@@ -11,3 +11,7 @@ Gemfile.lock
 .bundle/
 vendor/
 nbproject
+
+# DO include _sass/vendor
+!_sass/vendor
+!_sass/vendor/
