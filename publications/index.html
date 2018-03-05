@@ -18,15 +18,21 @@ _comments:
   caption: optional caption
 ---
 <div class="editable">
-  <h2>Publications</h2>
+
 </div>
-<ul>
+<ul class="default">
   {% for publication in site.publications %}
 
-    <li><a href="{{ publication.permalink }}">{{ publication.title }}</a></li>
+  <li>
+    <h3><a href="{{ publication.permalink }}">{{ publication.title }}</a>{% if publication.publication_date %}, {{ publication.publication_date }}{% endif %}</h3>
+    {% if publication.description_teaser_markdown %}
+    <p class="teaser">{{ publication.description_teaser_markdown | markdownify }} <a href="{{ publication.permalink }}"><svg class="icon icon--readmore"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg> Read more</a></p>
+    {% endif %}
+  </li>
 
   {% endfor %}
   </ul>
+<!--
 <div class="editable">
 
   <p><a href="publications.php%3Fid=14.html"><strong>Building Financial Management Capacity for NGOs and Community Organizations</strong></a><br />Published January 2014, Practical Action Publishing<br />This book presents practical ways to build financial management capacity in an international development context, although much of it applies to any non-profit organization. It gives examples of how groups and organizations build their own capacity. It considers what leadership teams can do to guide their organization’s longer-term direction and improve governance and it describes other financial management aspects that can be built into an organization’s structure to make it more sustainable.   <a href="publications.php%3Fid=14.html">More...</strong></a></p>
@@ -55,3 +61,4 @@ _comments:
 
   <p><a href="publications.php%3Fid=5.html"><strong>BOND Guidance Notes</strong></a><br />Guidance Notes on Project Budgeting <br />A guide to basic budgeting and a year-end statement for non-profit projects and programmes. <a href="publications.php%3Fid=5.html">More...</strong></a></p>
 </div>
+-->

@@ -8,8 +8,26 @@
     width: 30px;
     height: 30px;
 }
-a:hover .icon { /// hover colour
-    fill: $highlight-color;
+.icon--inverse {
+    fill: $inverse-color;
+}
+a {
+    .icon--inverse {
+        fill: $inverse-color;
+    }
+}
+a:hover {
+    .icon { /// hover colour
+        fill: $highlight-color;
+    }
+
+}
+
+a.inverse:hover .icon {
+    fill: $inverse-highlight;
+}
+.icon--inverse {
+    fill: $inverse-color;
 }
 .icon--readmore {
     fill: $white;
@@ -38,6 +56,7 @@ a:hover .icon { /// hover colour
 .icon-soundcloud { fill: $soundcloud; }
 .icon-vimeo_square { fill: $vimeo; }
 .icon-pinterest { fill: $pinterest; }
+.icon-linkedin { fill: $linkedin; }
 
 /// vertical align SVG icons in the centre
 a svg {

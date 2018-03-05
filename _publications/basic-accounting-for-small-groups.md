@@ -7,10 +7,10 @@ description_html: |
 description_teaser_markdown: |
   Updated edition of Oxfam's step-by-step guide to basic accounting and financial management techniques.
 buy_url: 'http://developmentbookshop.com/basic-accounting-for-small-groups-pb'
-publication_date: Published June 2012
+publication_date: June 2012
 publisher: Practical Action Publishing
 permalink: /publications/basic-accounting-for-small-groups/
-main_image_path: 
+main_image_path: /assets/images/books/basic_accounting_small_groups.jpg
 _options:
   main_image_path:
     width: 1200

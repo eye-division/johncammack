@@ -17,6 +17,8 @@ h6 {
   line-height: $heading-line-height;
   margin: 0 0 $base-font-size;
   margin: 0 0 rem($base-font-size);
+  color: $action-color;
+  font-weight: 400;
 }
 h1 {
 	font-size: modular-scale(4);
@@ -42,7 +44,7 @@ p {
 }
 
 a {
-  color: $action-color;
+  color: lighten($action-color,20%);
   text-decoration: none;
   // transition: color 0.1s linear;
 
@@ -56,6 +58,15 @@ a {
   &:active,
   &:focus {
     outline: none;
+  }
+}
+
+a.inverse {
+  color: $inverse-color;
+  &:active,
+  &:focus,
+  &:hover {
+    color: $inverse-highlight;
   }
 }
 
@@ -75,4 +86,26 @@ picture {
 
 code {
 
+}
+blockquote {
+  background: tint($action-color,90%);
+  border-left: 10px solid $action-color;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  font-family: $heading-font-family;
+  color: $action-color;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+cite {
+  display: block;
 }

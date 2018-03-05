@@ -1,0 +1,18 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the sidebar of the site/application.
+// -----------------------------------------------------------------------------
+
+.with--aside {
+    /*@include media ($medium-screen-up) {
+      float: left;
+      width: 60%;
+    }*/
+}
+
+.aside {
+    /*@include media ($medium-screen-up) {
+      float: right;
+      width: 40%;
+      height: 100%;
+    }*/
+}

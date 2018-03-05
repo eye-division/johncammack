@@ -11,12 +11,13 @@ description_html: |
   <cite>Sanjay Patra, Executive Director, Financial Management Service Foundation, New Delhi</cite></blockquote>
   <blockquote><p>John Cammack says that one of the key qualities of a book-keeper or  treasurer for a community organization is being &ldquo;able to explain  financial matters to those who have less experience&rdquo;.  John just does  that in this book.  He sets out clearly how anyone, whether they have  previous experience of finance or not, can follow simple steps to keep  good accounts. This books shows that managing money well can be simple  and is possible for everyone and every group.</p><cite>Tim Boyes-Watson, Director of Mango (Management Accounting for NGOs)</cite></blockquote>
   <blockquote><p>John Cammack has a unique talent of being able to explain complex  accounting in an engaging and accessible manner. This is another  invaluable tool for small organizations that are striving to achieve  good financial management.</p><cite>Neil Jennings, Founder of Accounting for International Development</cite></blockquote>
+  <p>Further details/buy at Practical Action Publishing For online discount and a <em>further exclusive 10% discount </em>enter the code <strong>CAMM2012</strong> on the order form. </p><p>Also available through online booksellers</p><p><strong><a href="http://developmentbookshop.com/cammack-special-offer" target="_blank">Special offer: buy all three Practical Action books for &pound;30</a></strong></p>
 description_teaser_markdown: |
   With facilitation/training guide, published January 2014, Practical Action Publishing  The success of any venture, whatever its size, depends on proper financial control. This book offers a step-by-step guide to basic accounting and financial management techniques. It is written in plain language for people who have no previous experience of accounting and book-keeping. Full solutions and notes for trainers and facilitators are also included.
 publication_date: January 2014
 publisher: Practical Action Publishing
 permalink: /publications/basic-accounting-for-community-organizations-and-small-groups/
-main_image_path: 
+main_image_path: /assets/images/books/basic_accounting.jpg
 _options:
   main_image_path:
     width: 1200
@@ -27,5 +28,3 @@ _comments:
   permalink: Be careful editing this
   main_image_path: Image used to represent your gallery
 ---
-<p>Further details/buy at Practical Action Publishing For online discount and a <em>further exclusive 10% discount </em>enter the code <strong>CAMM2012</strong> on the order form. </p><p>Also available through online booksellers</p>
-<strong><a href="http://developmentbookshop.com/cammack-special-offer" target="_blank">Special offer: buy all three Practical Action books for &pound;30</a></strong>

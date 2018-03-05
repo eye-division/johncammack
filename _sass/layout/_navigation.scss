@@ -4,8 +4,9 @@
 
 .navigation {
     margin: 0;
-    @include outer-container;
+    //@include outer-container;
     padding: 1em 1em 0;
+    width: 100%;
     background-color: $navigation-background;
     z-index: 99; // to cover over flexslider
 }

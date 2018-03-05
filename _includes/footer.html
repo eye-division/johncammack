@@ -4,32 +4,38 @@
 
     <div class="site-contact">
 
-      <ul class="social-media-list">
+      <p><strong>Tel</strong>: +44 (0)1865 762393<br>
+        <strong>Fax</strong>: +44 (0)1865 762393<br>
+        <strong>Skype</strong>: johncammack</p>
+
+      <ul class="inline">
 
         {% for social in site.social %}
           {% if social.url != null %}
           <li>
-            <a href="{{ social.url }}" title="{{ social.desc }}">
+            <a href="{{ social.url }}" title="{{ social.desc }}" class="inverse">
               <svg class="icon {{ social.icon }}"><use xlink:href="#{{ social.icon }}" /></svg>
-              <span class="username">{% if social.username %}{{ social.username }}{% else %}{{ social.name }}{% endif %}</span>
             </a>
           </li>
           {% endif %}
         {% endfor %}
+        <li>
+          <a href="mailto:{{ site.email }}" class="inverse">
+            <svg class="icon icon--inverse"><use xlink:href="#icon-envelope_alt" /></svg>
+          </a>
+        </li>
 
       </ul>
     </div>
 
 
     <div class="site-signature">
-      <a href="{{ site.baseurl }}/" class="logo" title="Return home">
-          <h1>{{ site.title }}</h1>
-          <div class="subtitle">{{ site.subtitle }}</div>
+      <a href="{{ site.baseurl }}/" class="logo" title="Return home" class="inverse">
+          <p class="subtitle">{{ site.subtitle }}</p>
       </a>
-      <p>training and consultancy for<br />
-      non-government organisations</p>
-      <p class="text">&copy; All work is copyright John Cammack, no reproduction without permission.<br />
-      <a href="https://www.eyedivision.com">{% include img.html src="/assets/eyegallery-box-trans.png" alt="Eye Division site" %}</a><br />site by <a href="https://www.eyedivision.com">Eye Division</a></p>
+      <p>&copy; All work is copyright John Cammack, no reproduction without permission.<br />
+      <a href="https://www.eyedivision.com" class="inverse">{% include img.html src="/assets/eyegallery-box-trans.png" alt="Eye Division site" %}</a><br />
+      site by <a href="https://www.eyedivision.com" class="inverse">Eye Division</a></p>
     </div>
 
 
