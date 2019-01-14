@@ -12,7 +12,7 @@ layout: page
       <span class="author">{{ page.author }}</span><br>
     {% endif %}
     {% if page.publication_date %}
-      <span class="publication_date">{{ page.publication_date }}</span><br>
+      <span class="publication_date">{{ page.publication_date | date: "%B %Y" }}</span><br>
     {% endif %}
     {% if page.publisher %}
       <span class="publisher">{{ page.publisher }}</span>
