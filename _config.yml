@@ -1,10 +1,12 @@
-# External gems
-gems:
-  - jekyll-sitemap
-  - jekyll-paginate
 
-exclude:
-  - "/vendor/"
+plugins:
+ # - jekyll-archives # Sorry, not GitHub pages friendly!
+ # - jekyll-assets
+ # - autoprefixer-rails
+   - jekyll-seo-tag
+   - jekyll-sitemap
+   - jekyll/tagging
+   - jekyll-tagging-related_posts
 
 # Site settings
 title: John Cammack
@@ -22,9 +24,9 @@ email: a.ward@eyedivision.com
 
 # Build settings
 markdown: kramdown
-paginate: 5
-paginate_path: "/page:num/"
-inter_post_navigation: false
+#paginate: 5
+#paginate_path: "/page:num/"
+#inter_post_navigation: false
 permalink: pretty
 highlightjs_theme: "monokai-sublime"
 
@@ -43,6 +45,11 @@ collections:
 
 # Defaults Example
 defaults:
+    -
+        scope:
+            path: ""
+        values:
+            layout: "page"
     -
         scope:
             path: ""
