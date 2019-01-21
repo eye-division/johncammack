@@ -24,7 +24,7 @@ layout: page
     {{ page.description_html }}
   {% endif %}
 
-  {% if page.buy_url %}
+  {% if page.buy_url != ""%}
     <p><a href="{{ page.buy_url }}" class="button">Buy book</a></p>
   {% endif %}
 

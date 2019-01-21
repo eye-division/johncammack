@@ -53,7 +53,7 @@ description_teaser_markdown: >-
   and financial management techniques. It is written in plain language for
   people who have no previous experience of accounting and book-keeping. Full
   solutions and notes for trainers and facilitators are also included.
-publication_date: 2014-01-07 00:00:00
+publication_date: 2014-01-07
 publisher: Practical Action Publishing
 permalink: /publications/basic-accounting-for-community-organizations-and-small-groups/
 main_image_path: /assets/images/books/basic_accounting.jpg
