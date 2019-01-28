@@ -13,7 +13,7 @@ description_html: >-
 description_teaser_markdown: >-
   The guide introduces you to the main issues of project budgeting and gives you
   a simple process to follow to get started.
-publication_date: 2013-12-01 00:00:00
+publication_date: 2013-12-01
 publisher: Practical Action Publishing
 permalink: /publications/project-budgeting/
 main_image_path:
