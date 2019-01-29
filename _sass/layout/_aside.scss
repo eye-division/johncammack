@@ -10,9 +10,12 @@
 }
 
 .aside {
-    /*@include media ($medium-screen-up) {
-      float: right;
-      width: 40%;
-      height: 100%;
-    }*/
+    border-top: 4px solid $action-color;
+    @include media ($medium) {
+      //border-top: none;
+    }
+}
+.widget {
+  border-top: 4px solid $action-color;
+  padding-top: 20px;
 }

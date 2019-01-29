@@ -1,7 +1,7 @@
 // -----------------------------------------------------------------------------
 // This file contains all styles related to the navigation
 // -----------------------------------------------------------------------------
-
+// navigation height set in grid settings for body in core.scss
 .navigation {
     margin: 0;
     //@include outer-container;
@@ -9,6 +9,7 @@
     width: 100%;
     background-color: $navigation-background;
     z-index: 99; // to cover over flexslider
+    border-bottom: 4px solid $action-color;
 }
 /// Nav menu
 .navigation-wrapper {
@@ -20,11 +21,13 @@
 
 /// small view
 .navigation-menu-button {
+    position: absolute;
+    top: 0;
+    right: 0;
     display: block;
     text-align: right;
     margin: 0;
     font-size: 1.5em;
-    padding-top: 0.5em;
     color: $navigation-color;
     text-decoration: none;
     .icon-menu {
@@ -52,14 +55,22 @@
 }
 
 nav {
-    float: right;
+
     @include media ($medium) {
+
         float: none;
         line-height: 1.5em;
     }
 }
 
-ul.navigation-menu {
+.navigation-menu {
+    position: absolute;
+    top: 50px;
+    right: 0;
+    left: 0;
+    background-color: rgba($action-color, 0.9);
+    height: 100vh;
+    overflow: auto;
     clear: both;
     text-align: center;
     display: none;
@@ -68,9 +79,13 @@ ul.navigation-menu {
     padding: 0;
     width: 100%;
     @include media ($medium) {
-        display: block;
-        margin: 0;
-        padding: 0;
+      background-color: inherit;
+      position: relative;
+      top: 10px;
+      height: auto;
+      display: block;
+      margin: 0;
+      padding: 0;
     }
     &.show {
         display: block;
@@ -79,43 +94,60 @@ ul.navigation-menu {
 
 /// Nav items
 
-li.nav-link {
+.nav-link {
     display: block;
-    text-align: right;
+    text-align: center;
     width: 100%;
-    padding: 0.25em 0;
+    padding: 0;
     @include media ($medium) {
         background: transparent;
-        display: inline;
+        display: inline-block;
         text-decoration: none;
         width: auto;
     }
     a {
         color: $navigation-color;
-        display: inline-block;
+        display: block;
+        padding: 0.5em;
         @include media ($medium) {
-            padding-right: 1.5em;
+            display: inline-block;
+            //padding-right: 1.5em;
         }
         &:hover {
             color: $navigation-color-hover;
             text-decoration: none;
+            background-color: darken($navigation-bgcolor-hover,10%);
+            @include media ($medium) {
+              color: $navigation-color-hover;
+              text-decoration: none;
+              background-color: $navigation-bgcolor-hover;
+            }
         }
     }
 
     &:last-child a {
         @include media ($medium) {
-            padding-right: 1em;
+            //padding-right: 1em;
         }
     }
 }
-li.nav-link.active,
-li.active {
+.nav-link.active,
+.active {
     a {
-        color: $black;
+        color: $navigation-active-link-color;
+        background-color: $navigation-bgcolor-hover;
     }
 }
 
+/* side menus */
+.submenu {
+  a {
+    display: block;
+    padding: 0.5em;
 
+  }
+
+}
 
 /// Drop down menu v2
 // http://refills.bourbon.io/components/

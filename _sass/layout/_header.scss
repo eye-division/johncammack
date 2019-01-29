@@ -15,6 +15,7 @@
     display: block;
     color: $white;
     padding: 0 0.5em;
+    width: 80%;
 
     span {
         font-size: 1.25em;
@@ -22,6 +23,10 @@
     h1 {
         margin-bottom: 0;
         font-size: modular-scale(5);
+        line-height: 1.2em;
+        @include media ($small) {
+            line-height: 1.4em;
+        }
     }
 
     &:active,

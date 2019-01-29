@@ -9,6 +9,7 @@ $footer-color: $white;
     //@include outer-container;
     padding: 1em;
     background-color: $footer-background;
+    border-top: 4px solid $action-color;
     color: $footer-color;
     .wrapper {
         //@include outer-container;

@@ -69,12 +69,29 @@ layout: default
         {% if page.url contains link.href %}
           <ul class="submenu default">
             {% for subcategory in link.subcategories %}
-              <li><a href="{{ subcategory.subhref | prepend: site.baseurl }}">{{ subcategory.subtitle }}</a></li>
+              <li class="{% unless link.title == "Home" %}{% if page.url contains subcategory.subhref %} active{% endif %}{% endunless %}"><a href="{{ subcategory.subhref | prepend: site.baseurl }}">{{ subcategory.subtitle }}</a></li>
             {% endfor %}
           </ul>
         {% endif %}
       {% endif %}
     {% endfor %}
+
+    {% if page.twitterfeed %}
+
+      {% for social in site.social %}
+
+        {% if social.name == "Twitter" %}
+
+          <div class="widget twitter">
+
+            <a class="twitter-timeline" data-height="400" href="https://twitter.com/{{ social.username }}?ref_src=twsrc%5Etfw">Tweets by {{ social.username }}</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          </div>
+
+        {% endif %}
+
+      {% endfor %}
+
+    {% endif %}
 
     {% if page.side_images %}
     <ul class="inline">

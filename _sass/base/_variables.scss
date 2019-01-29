@@ -95,8 +95,9 @@ $navigation-submenu-padding: 1em;
 $navigation-submenu-width: 15em;
 // navigation colours
 $navigation-color: $white;
-$navigation-color-hover: $orange;
-$navigation-active-link-color: transparentize(white, 0.5);
+$navigation-color-hover: $white;
+$navigation-active-link-color: $white;
+$navigation-bgcolor-hover: darken($jc-blue-light,10%);
 
 // drop down variables
 $dropdown-color: $base-font-color;

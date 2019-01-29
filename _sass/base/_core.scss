@@ -26,8 +26,11 @@ body {
       "header"
       "page"
       "footer";
-    grid-template-rows: minmax(180px, 20%) 1fr minmax(240px,20%);
+    grid-template-rows: minmax(140px, 20%) 1fr minmax(240px,20%);
     grid-gap: 10px;
+    @include media ($small) {
+        //grid-template-rows: minmax(190px, 20%) 1fr minmax(240px,20%);
+    }
     height: 100vh;
     margin: 0;
     background-color: $base-background-color;
@@ -93,11 +96,14 @@ figure {
     }
 }
 .page.two-column {
-    display: grid;
-    grid-template-columns: 70% 30%;
-    grid-gap: 10px;
-    align-items: start;
-    align-content: start;
+
+    @include media ($medium) {
+        display: grid;
+        grid-template-columns: 70% 30%;
+        grid-gap: 10px;
+        align-items: start;
+        align-content: start;
+    }
 }
 img {
     display: block;
