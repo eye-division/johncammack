@@ -1,0 +1,21 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the publications page.
+// -----------------------------------------------------------------------------
+
+.publications {
+   @include media($small) {
+     figure {
+       float: left;
+
+     }
+   }
+   .border {
+      border-bottom: 2px solid tint($action-color,40%);
+      padding-bottom: 20px;
+      margin-bottom: 20px;
+    }
+    .post-content .subtitle {
+      color: $base-font-color;
+      font-size: inherit;
+    }
+}

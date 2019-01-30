@@ -1,6 +1,7 @@
 ---
 title: ''
 subtitle:
+article: false
 description_html:  ''
 teaser_description_markdown:
 publication_date: ''

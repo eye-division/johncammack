@@ -1,6 +1,7 @@
 ---
 title: Communicating financial management with non-finance people
 subtitle:
+article: false
 author: John Cammack
 buy_url:
 description_html: >-

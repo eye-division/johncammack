@@ -1,6 +1,7 @@
 ---
 title: Project Budgeting - Bond How to guide
 subtitle:
+article: false
 buy_url: >-
   http://www.bond.org.uk/data/files/resources/48/Project-budgeting-How-To-guide-June-2013.pdf
 author: John Cammack

@@ -15,21 +15,39 @@ _comments:
 <div class="editable">
 
 </div>
-<ul class="default">
 
-{% assign publications = site.publications | sort: "publication_date" | reverse  %}
+  <ul class="default">
 
-  {% for publication in publications %}
+  {% assign publications = site.publications | where: "article", false | sort: "publication_date" | reverse  %}
 
-  <li>
-    <h3><a href="{{ publication.permalink }}">{{ publication.title }}</a>{% if publication.publication_date %}, {{ publication.publication_date | date: "%B %Y" }}{% endif %}</h3>
-    {% if publication.description_teaser_markdown %}
-    <p class="teaser">{{ publication.description_teaser_markdown | markdownify }} <a href="{{ publication.permalink }}" class="button btn"><svg class="icon icon--readmore"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg> Read more</a></p>
-    {% endif %}
-  </li>
+    {% for publication in publications %}
+
+      <li>
+        <h3><a href="{{ publication.permalink }}">{{ publication.title }}</a>{% if publication.publication_date %}, <span class="post--date">{{ publication.publication_date | date: "%B %Y" }}{% endif %}</span></h3>
+        {% if publication.description_teaser_markdown %}
+        <p class="teaser">{{ publication.description_teaser_markdown | markdownify }} <a href="{{ publication.permalink }}" class="button btn"><svg class="icon icon--readmore"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg> Read more</a></p>
+        {% endif %}
+      </li>
 
   {% endfor %}
   </ul>
+
+  <h2 class="border">Articles</h2>
+  <ul class="default">
+
+  {% assign publications = site.publications | sort: "publication_date" | where: "article", true | reverse  %}
+
+    {% for publication in publications %}
+
+    <li>
+      <h3><a href="{{ publication.permalink }}">{{ publication.title }}</a>{% if publication.publication_date %}, <span class="post--date">{{ publication.publication_date | date: "%B %Y" }}{% endif %}</span></h3>
+      {% if publication.description_teaser_markdown %}
+      <p class="teaser">{{ publication.description_teaser_markdown | markdownify }} <a href="{{ publication.permalink }}" class="button btn"><svg class="icon icon--readmore"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg> Read more</a></p>
+      {% endif %}
+    </li>
+
+    {% endfor %}
+    </ul>
 <!--
 <div class="editable">
 

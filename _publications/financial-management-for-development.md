@@ -1,6 +1,7 @@
 ---
 title: Financial Management for Development
 subtitle: accounting and finance for the non-specialist in development organisations
+article: false
 buy_url:
 author: John Cammack
 description_html: >-

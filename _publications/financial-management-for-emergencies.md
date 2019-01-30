@@ -1,6 +1,7 @@
 ---
 title: Financial Management for Emergencies
 subtitle: A survival guide for humanitarian programme managers
+article: true
 author: 'John Cammack, Tim Foster, Simon Hale'
 description_html: >-
   <p><a target="_blank" href="http://www.fme-online.org"><img width="175"

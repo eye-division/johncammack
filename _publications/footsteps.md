@@ -1,6 +1,7 @@
 ---
 title: Footsteps
 subtitle: 'Article: Managing cash flow'
+article: true
 buy_url:
 author: John Cammack
 description_html: >-

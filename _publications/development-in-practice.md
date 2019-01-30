@@ -1,6 +1,7 @@
 ---
 title: Development in Practice
 subtitle: 'Article: Finance: friend or foe?'
+article: true
 author: John Cammack
 buy_url:
 description_html: >-
