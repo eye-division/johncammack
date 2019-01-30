@@ -10,13 +10,16 @@
     color: $white;
     font-family: $subheading-font-family;
     font-size: modular-scale(2);
+    line-height: 1.4em;
 }
 .logo {
     display: block;
     color: $white;
     padding: 0 0.5em;
     width: 80%;
-
+    @include media ($medium) {
+        width: 100%;
+    }
     span {
         font-size: 1.25em;
     }

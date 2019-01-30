@@ -17,6 +17,8 @@
 
 .not-mobile {
   display: none;
-
+  @include media($small) {
+    display: inherit;
+  }
 
 }

@@ -26,10 +26,10 @@ body {
       "header"
       "page"
       "footer";
-    grid-template-rows: minmax(140px, 20%) 1fr minmax(240px,20%);
+    grid-template-rows: 20% 1fr minmax(240px,20%);
     grid-gap: 10px;
     @include media ($small) {
-        //grid-template-rows: minmax(190px, 20%) 1fr minmax(240px,20%);
+        grid-template-rows: 170px 1fr minmax(240px,20%);//grid-template-rows: minmax(190px, 20%) 1fr minmax(240px,20%);
     }
     height: 100vh;
     margin: 0;

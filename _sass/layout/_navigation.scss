@@ -10,6 +10,9 @@
     background-color: $navigation-background;
     z-index: 99; // to cover over flexslider
     border-bottom: 4px solid $action-color;
+    @include media ($medium) {
+      text-align: center;
+    }
 }
 /// Nav menu
 .navigation-wrapper {
