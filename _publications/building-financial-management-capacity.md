@@ -9,10 +9,10 @@ description_html: >-
   an international development context, although much of it applies to any
   non-profit organization <a
   href="http://developmentbookshop.com/building-financial-management-capacity-for-ngos-and-community-organizations"><img
-  width="106" height="159" align="left" alt=""
+  alt="" width="106" height="159" align="left"
   src="http://www.johncammack.net/userfiles/Building financial management
   capacity cover Jan 2014(1).jpg" /></a>. It describes good practice in the
-  specific tasks of financial management &ndash; for example, planning and
+  specific tasks of&nbsp; financial management &ndash; for example, planning and
   budgeting and financial controls, and gives examples of how groups and
   organizations build their own capacity. It considers what leadership teams can
   do to guide their organization&rsquo;s longer-term direction and improve
