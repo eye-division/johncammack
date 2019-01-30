@@ -77,7 +77,7 @@ description_teaser_markdown: >-
   their organization’s longer-term direction and improve governance and it
   describes other financial management aspects that can be built into an
   organization’s structure to make it more sustainable.
-publication_date: 2014-01-01 00:00:00
+publication_date: 2014-01-01
 publisher: Practical Action Publishing
 permalink: /publications/building-financial-management-capacity/
 main_image_path:
