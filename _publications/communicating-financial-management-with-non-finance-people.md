@@ -38,17 +38,13 @@ description_html: >-
   all three Practical Action Books for &pound;30</a>.</p><p>Also available
   through on-line booksellers</p>
 description_teaser_markdown: >-
-  Strong financial management skills are essential to promote high programme
-  standards in international development organizations. Many non-finance people
-  find numbers and financial techniques difficult, and some just give up or
-  expect someone else to handle them. However, NGO managers and other staff are
-  responsible for sound financial management and without full understanding
-  their programmes will be at best less effective, and at worst vulnerable to
-  going unfunded. To help avoid these problems, many development agencies
-  provide financial training for their non-finance staff, and also their
-  partners. But just providing more skills training does not address all the
-  issues. Poor communication about financial information, by both finance and
-  non-finance people, often seems to cause a block.
+  Many non-finance people find numbers and financial techniques difficult, and
+  some just give up or expect someone else to handle them. However, NGO managers
+  and other staff are responsible for sound financial management and without
+  full understanding their programmes will be at best less effective, and at
+  worst vulnerable to going unfunded. Poor communication about financial
+  information, by both finance and non-finance people, often seems to cause a
+  block.
 publication_date: 2012-06-01 00:00:00
 publisher: Practical Action Publishing
 permalink: /publications/communicating-financial-management-with-non-finance-people/
