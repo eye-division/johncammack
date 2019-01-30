@@ -47,12 +47,11 @@ description_html: >-
   href="http://developmentbookshop.com/cammack-special-offer">Special offer: buy
   all three Practical Action books for &pound;30</a></strong></p>
 description_teaser_markdown: >-
-  With facilitation/training guide, published January 2014, Practical Action
-  Publishing The success of any venture, whatever its size, depends on proper
-  financial control. This book offers a step-by-step guide to basic accounting
-  and financial management techniques. It is written in plain language for
-  people who have no previous experience of accounting and book-keeping. Full
-  solutions and notes for trainers and facilitators are also included.
+  The success of any venture, whatever its size, depends on proper financial
+  control. This book offers a step-by-step guide to basic accounting and
+  financial management techniques. It is written in plain language for people
+  who have no previous experience of accounting and book-keeping. Full solutions
+  and notes for trainers and facilitators are also included.
 publication_date: 2014-01-07 00:00:00
 publisher: Practical Action Publishing
 permalink: /publications/basic-accounting-for-community-organizations-and-small-groups/
