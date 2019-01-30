@@ -1,21 +1,30 @@
 ---
-title: 'Footsteps'
+title: Footsteps
 subtitle: 'Article: Managing cash flow'
-buy_url: ''
-author: 'John Cammack'
-description_html: |
-  <p>Many of us have experienced the situation where we have a bill to pay, but we do not have enough money to pay it until we receive money owed to us. As individuals, we can generally keep these details in our head, but this is not possible within a group or organisation. The article provides a guide to managing your cash flow.</p><p>To read the article go to:<br /><a target="_blank" href="http://tilz.tearfund.org/en/resources/publications/footsteps/footsteps_51-60/footsteps_57/managing_cash_flow/">tilz.tearfund.org</a></p>
-description_teaser_markdown:
-publication_date: 
-publisher: 
+buy_url:
+author: John Cammack
+description_html: >-
+  <p>Many of us have experienced the situation where we have a bill to pay, but
+  we do not have enough money to pay it until we receive money owed to us. As
+  individuals, we can generally keep these details in our head, but this is not
+  possible within a group or organisation. The article provides a guide to
+  managing your cash flow.</p><p>To read the article go to:<br /><a
+  target="_blank"
+  href="http://tilz.tearfund.org/en/resources/publications/footsteps/footsteps_51-60/footsteps_57/managing_cash_flow/">tilz.tearfund.org</a></p>
+description_teaser_markdown: >-
+  Many of us have experienced the situation where we have a bill to pay, but we
+  do not have enough money to pay it until we receive money owed to us. The
+  article provides a guide to managing your organisation's cash flow.
+publication_date:
+publisher:
 permalink: /publications/footsteps/
-main_image_path: 
+main_image_path:
 _options:
   main_image_path:
     width: 1200
     height: 800
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
 _comments:
   permalink: Be careful editing this
   main_image_path: Image used to represent your gallery
