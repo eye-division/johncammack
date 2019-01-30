@@ -1,5 +1,7 @@
 ---
-title: Building Financial Management Capacity for NGOs and Community Organizations
+title: >-
+  Building Financial Management Capacity for NGOs and Community Organizations
+  2nd edition
 subtitle:
 buy_url: >-
   https://developmentbookshop.com/communicating-financial-management-with-non-finance-people-pb
