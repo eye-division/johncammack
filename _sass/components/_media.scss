@@ -14,7 +14,12 @@
     position: absolute;
   }
 }
-
+.description {
+  font-style: italic;
+  text-align: center;
+  padding: 0.5em;
+  background: tint($light-gray,40%);
+}
 .not-mobile {
   display: none;
   @include media($small) {
