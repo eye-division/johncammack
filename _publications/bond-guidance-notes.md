@@ -8,7 +8,7 @@ description_html: |
   <p>To read the Guidance Notes go to <a href="/assets/documents/No%204.1%20Project%20Budgeting%20and%20Accounting.pdf" target="_blank">Guidance Notes Project Budgeting and Accounting</a></p>
 description_teaser_markdown: | 
    A guide to basic budgeting and a year-end statement for non-profit projects and programmes.
-publication_date: 2013-01-01
+publication_date: 2013-01-01 00:00:00
 publisher: 'BOND'
 permalink: /publications/bond-guidance-notes/
 main_image_path: 
