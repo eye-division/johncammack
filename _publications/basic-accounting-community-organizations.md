@@ -11,7 +11,7 @@ description_html: >-
   control. This book offers a step-by-step guide to basic accounting and
   financial management techniques. It is written in plain language for people
   who have no previous experience of accounting and book-keeping. Using simple
-  case studies, the author shows how to - construct a budget and cash-flow
+  case studies, the author shows how to construct a budget and cash-flow
   forecast; record and control cash payments; draw up an analysed cash book, and
   a receipts and payments account; operate a bank account; and prepare a budget
   and actual statement. Each section is followed by activities to practise the
