@@ -2,7 +2,7 @@
 title: >-
   Basic Accounting for Community Organizations and Small Groups: a practical
   guide
-subtitle: With facilitation/training guide
+subtitle: 3rd edition with facilitation/training guide
 author: John Cammack
 buy_url: >-
   http://developmentbookshop.com/basic-accounting-for-community-organizations-and-small-groups
