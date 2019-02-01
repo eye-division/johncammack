@@ -5,7 +5,7 @@ title: >-
 subtitle:
 article: false
 buy_url: >-
-  https://developmentbookshop.com/communicating-financial-management-with-non-finance-people-pb
+  https://developmentbookshop.com/building-financial-management-capacity-for-ngos-and-community-organizations
 author: John Cammack
 description_html: >-
   <p>This book presents practical ways to build financial management capacity in
