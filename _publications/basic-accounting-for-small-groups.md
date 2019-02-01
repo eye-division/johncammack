@@ -15,8 +15,9 @@ description_html: >-
   activities.</p><p>For more details:<br /><a target="_blank"
   href="http://developmentbookshop.com/basic-accounting-for-small-groups-pb">developmentbookshop.com</a>
   (UK),&nbsp;<br /><a target="_blank"
-  href="http://www.lastfirst.net/index.php?option=com_virtuemart&amp;page=shop.product_details&amp;flypage=shop.flypage_modern&amp;category_id=15&amp;product_id=855&amp;Itemid=35">A</a>beBooks.com
-  (Australia and Pacific)&nbsp;&nbsp;</p><p>146 pages, January 2003 ISBN
+  href="http://www.lastfirst.net/index.php?option=com_virtuemart&amp;page=shop.product_details&amp;flypage=shop.flypage_modern&amp;category_id=15&amp;product_id=855&amp;Itemid=35">A</a><a
+  href="__notset__">beBooks.com</a> (Australia and
+  Pacific)&nbsp;&nbsp;</p><p>146 pages, January 2003 ISBN
   0-85598-473-2</p><p>&nbsp;</p>
 description_teaser_markdown: >-
   Updated edition of Oxfam's step-by-step guide to basic accounting and
