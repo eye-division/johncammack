@@ -14,13 +14,13 @@ description_html: >-
   for long written answers. Solutions are provided for all the
   activities.</p><p>For more details:<br /><a target="_blank"
   href="http://developmentbookshop.com/basic-accounting-for-small-groups-pb">developmentbookshop.com</a>
-  (UK) &pound;11.66 <a target="_blank"
+  (UK), &nbsp;<a target="_blank"
   href="http://www.renoufbooks.com/Enter.aspx?tm=&amp;mode=">Renouf
-  Publishing</a> (Canada) C$28.00<br /><a target="_blank"
+  Publishing</a> (Canada),&nbsp;<br /><a target="_blank"
   href="http://www.lastfirst.net/index.php?option=com_virtuemart&amp;page=shop.product_details&amp;flypage=shop.flypage_modern&amp;category_id=15&amp;product_id=855&amp;Itemid=35">A</a>beBooks.com
-  (Australia and Pacific) A$46.95 <a target="_blank"
+  (Australia and Pacific),&nbsp;<a target="_blank"
   href="http://www.styluspub.com/clients/OXF/books/SearchResults.aspx?str=basic+accounting+for+small+groups">styluspub.com</a>
-  (USA) US$22.35&nbsp;</p><p>146 pages, January 2003 ISBN
+  (USA)&nbsp;&nbsp;</p><p>146 pages, January 2003 ISBN
   0-85598-473-2</p><p>&nbsp;</p>
 description_teaser_markdown: >-
   Updated edition of Oxfam's step-by-step guide to basic accounting and
