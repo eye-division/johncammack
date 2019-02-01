@@ -3,7 +3,8 @@ title: Communicating financial management with non-finance people
 subtitle:
 article: false
 author: John Cammack
-buy_url:
+buy_url: >-
+  https://developmentbookshop.com/communicating-financial-management-with-non-finance-people-pb
 description_html: >-
   <blockquote><p>Years of practical experience working with non-profits speak
   from these pages</p><cite>Alan Fowler, Emeritus Professor, Institute of Social
