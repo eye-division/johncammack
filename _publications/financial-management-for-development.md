@@ -2,7 +2,7 @@
 title: Financial Management for Development
 subtitle: accounting and finance for the non-specialist in development organisations
 article: false
-buy_url:
+buy_url: 'https://developmentbookshop.com/financial-management-for-development-pb'
 author: John Cammack
 description_html: >-
   <p><a target="_blank"
@@ -36,3 +36,4 @@ _comments:
   permalink: Be careful editing this
   main_image_path: Image used to represent your gallery
 ---
+
