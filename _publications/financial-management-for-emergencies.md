@@ -15,7 +15,7 @@ description_html: >-
   website:<br /><a target="_blank"
   href="http://www.fme-online.org">fme-online.org</a></p><p>&nbsp;</p>
 description_teaser_markdown: >-
-  This guide will help humanitarian programme managers manage financial
+  This on-line guide will help humanitarian programme managers manage financial
   resources in the critical first stages of an emergency.
 publication_date:
 publisher:
