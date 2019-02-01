@@ -15,15 +15,14 @@ description_html: >-
   included on audit and financial controls. There are checklists given for
   analysing accounts and assessing financial systems. International variations
   in terminology and format and a comprehensive glossary are shown in
-  appendices.</p><p>For more details:<br /><a target="_blank"
-  href="http://www.intrac.org/resources.php?type=&amp;format=2&amp;action=search">intrac.org</a><br
-  />NGOMP Series No.10, March 2000, ISBN 1-897748-52-33, &pound;8.00</p>
+  appendices.</p><p>For more details:<br />Practical Action Publishing<br
+  />Intrac NGOMP Series No.10, March 2000, ISBN 1-897748-52-33, &pound;8.00</p>
 description_teaser_markdown: >-
   Written for non-financial staff and members of governing bodies of NGOs, who
   need to understand financial systems and statements. This book shows records
   and statements used within organisations and how these can be interpreted.
 publication_date: 2000-03-01 00:00:00
-publisher:
+publisher: Intrac
 permalink: /publications/financial-management-for-development/
 main_image_path:
 _options:
