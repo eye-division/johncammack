@@ -1,7 +1,7 @@
 ---
 title: Financial Management for Development
 subtitle: accounting and finance for the non-specialist in development organisations
-article: false
+article: true
 buy_url: 'https://developmentbookshop.com/financial-management-for-development-pb'
 author: John Cammack
 description_html: >-
@@ -15,8 +15,10 @@ description_html: >-
   included on audit and financial controls. There are checklists given for
   analysing accounts and assessing financial systems. International variations
   in terminology and format and a comprehensive glossary are shown in
-  appendices.</p><p>For more details:<br />Practical Action Publishing<br
-  />Intrac NGOMP Series No.10, March 2000, ISBN 1-897748-52-33, &pound;8.00</p>
+  appendices.</p><p>For more details:<br /><a
+  href="https://developmentbookshop.com/financial-management-for-development-pb">Practical
+  Action Publishing</a><br />Intrac NGOMP Series No.10, March 2000, ISBN
+  1-897748-52-33, &pound;8.00</p>
 description_teaser_markdown: >-
   Written for non-financial staff and members of governing bodies of NGOs, who
   need to understand financial systems and statements. This book shows records
