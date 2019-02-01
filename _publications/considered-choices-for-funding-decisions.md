@@ -3,7 +3,7 @@ title: Considered choices for funding decisions
 subtitle: >-
   how to calculate the real cost of donor-funded projects; when to say “yes” and
   when to say “no”
-article: false
+article: true
 buy_url:
 author: John Cammack
 description_html: >-
@@ -40,3 +40,4 @@ _comments:
   permalink: Be careful editing this
   main_image_path: Image used to represent your gallery
 ---
+
