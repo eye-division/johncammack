@@ -6,7 +6,7 @@ buy_url: 'https://developmentbookshop.com/financial-management-for-development-p
 author: John Cammack
 description_html: >-
   <p><a target="_blank"
-  href="http://www.intrac.org/resources.php?type=&amp;format=2&amp;action=search"><img
+  href="https://developmentbookshop.com/financial-management-for-development-pb"><img
   align="left" alt="" style="width: 99px; height: 125px;"
   src="/assets/images/FMD new cover Intrac.jpg" /></a>Written for non-financial
   staff and members of governing bodies of NGOs, who need to understand
