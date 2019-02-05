@@ -28,8 +28,10 @@
       subhref: "/training/success-stories/"
     - subtitle: "Training trainers"
       subhref: "/training/training-trainers/"
+    - subtitle: "Financial management"
+      subhref: "/training/financial-management/"
 
-- title: "Advisory"
+- title: "Consultancy"
   href: "/consultancy/"
   subcategories:
     - subtitle: "Building capacity"
@@ -38,8 +40,8 @@
       subhref: "/consultancy/fit-for-funding/"
     - subtitle: "Management review"
       subhref: "/consultancy/management-review/"
-    - subtitle: "NGO Financial support"
-      subhref: "/consultancy/ngo-financial-support/"
+    - subtitle: "NGO financial package"
+      subhref: "/consultancy/ngo-financial-package/"
 
 - title: "Publications"
   href: "/publications/"
@@ -56,8 +58,10 @@
       subhref: "/resources/communicating-finance/"
     - subtitle: "Project budgeting"
       subhref: "/resources/project-budgeting/"
-    - subtitle: "Online news"
-      subhref: "/resources/online-news/"
+    - subtitle: "Cross cultural communication and training"
+      subhref: "/resources/cross-cultural-communication-and-training/"
+    - subtitle: "More resources"
+      subhref: "/resources/more-resources/"
 
 - title: "Links"
   href: "/links/"
