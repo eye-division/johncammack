@@ -40,7 +40,7 @@ collections:
     publications:
         output: true
         permalink: /publications/:path/
-        _hide_content: true
+        #_hide_content: true
 
 
 # Defaults Example
