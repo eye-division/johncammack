@@ -2,8 +2,7 @@
 title: Project Budgeting - Bond 'How to' guide
 subtitle:
 article: false
-buy_url: >-
-  http://www.bond.org.uk/data/files/resources/48/Project-budgeting-How-To-guide-June-2013.pdf
+buy_url:
 author: John Cammack
 description_teaser_markdown: >-
   The guide introduces you to the main issues of project budgeting and gives you
@@ -23,8 +22,6 @@ _comments:
   main_image_path: Image used to represent your gallery
 ---
 
-Bond's new guide on the basics of project budgeting covers the key areas of
-  planning and monitoring budgets, and gives clear guidance on cash flow
-  forecasts and how the end of year financial statements link with the budgeting  process. There is checklist of budgeting good practice and details of where to  find more information.
+Bond's new guide on the basics of project budgeting covers the key areas of planning and monitoring budgets, and gives clear guidance on cash flow forecasts and how the end of year financial statements link with the budgeting process. There is checklist of budgeting good practice and details of where to find more information.
 
-  Free download
+[Free download](/Project-budgeting-How-To-guide-Dec-2013.pdf)
