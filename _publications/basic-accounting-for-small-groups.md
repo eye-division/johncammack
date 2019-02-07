@@ -6,7 +6,7 @@ author: John Cammack
 description_teaser_markdown: >-
   Updated edition of Oxfam's step-by-step guide to basic accounting and
   financial management techniques.
-buy_url: 'https://developmentbookshop.com/catalogsearch/result/?q=Cammack'
+buy_url: 'https://www.abebooks.com/servlet/BookDetailsPL?bi=8395985298&searchurl=sortby%3D93%26tn%3Dbasic%2Baccounting%2Bfor%2Bsmall%2Bgroups%26an%3Dcammack&cm_sp=snippet-_-srp1-_-title3'
 publication_date: 2003-01-31 00:00:00
 publisher: Practical Action Publishing
 permalink: /publications/basic-accounting-for-small-groups/
@@ -30,5 +30,4 @@ Oxfam's step-by-step guide to basic accounting and financial management
   activities.
 
   For more details:
-  <a target="_blank"  href="http://developmentbookshop.com/basic-accounting-for-small-groups-pb">developmentbookshop.com</a>
-  (UK),  <a target="_blank"  href="http://www.lastfirst.net/index.php?option=com_virtuemart&amp;page=shop.product_details&amp;flypage=shop.flypage_modern&amp;category_id=15&amp;product_id=855&amp;Itemid=35">AbeBooks.com</a> (Australia and  Pacific) 146 pages, January 2003 ISBN  0-85598-473-2
+ <a target="_blank"  href="https://www.abebooks.com/servlet/BookDetailsPL?bi=8395985298&searchurl=sortby%3D93%26tn%3Dbasic%2Baccounting%2Bfor%2Bsmall%2Bgroups%26an%3Dcammack&cm_sp=snippet-_-srp1-_-title3">AbeBooks.com</a> (Australia and  Pacific) 146 pages, January 2003 ISBN  0-85598-473-2
