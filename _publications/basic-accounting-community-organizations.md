@@ -1,7 +1,7 @@
 ---
 title: >-
   Basic Accounting for Community Organizations and Small Groups: a practical
-  guide 3rd edition with facilitation/training guide
+  guide 3rd edition with facilitator's/training guide
 subtitle:
 article: false
 author: John Cammack
@@ -28,7 +28,7 @@ _comments:
   main_image_path: Image used to represent your gallery
 ---
 
- The success of any venture, whatever its size, depends on proper financial
+The success of any venture, whatever its size, depends on proper financial
   control. This book offers a step-by-step guide to basic accounting and
   financial management techniques. It is written in plain language for people
   who have no previous experience of accounting and book-keeping. Using simple
