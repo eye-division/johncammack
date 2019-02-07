@@ -5,8 +5,13 @@
 .publications {
    @include media($small) {
      figure {
-       float: left;
+       float: right;
+       max-width: 40%;
+       padding: 0 0 1em 1em;
 
+       img {
+          max-width: 200px;
+       }
      }
    }
    .border {
