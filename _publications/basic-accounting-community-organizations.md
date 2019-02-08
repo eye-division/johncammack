@@ -34,7 +34,7 @@ Full solutions and notes for trainers and facilitators are also included. Basic 
 
 **Endorsements**
 
-> Basic Accounting for Community Organizations and Small Groups is much needed for the NGO sector. Many organisations are small and therefore this book fills their need. It is written in a simple manner from a layman’s perspective, and will be very useful. This book can be summarised as “the power of keeping things simple".&nbsp; *Sanjay Patra, Executive Director, Financial Management Service Foundation, New&nbsp;**Delhi*
+> Basic Accounting for Community Organizations and Small Groups is much needed for the NGO sector. Many organisations are small and therefore this book fills their need. It is written in a simple manner from a layman’s perspective, and will be very useful. This book can be summarised as “the power of keeping things simple".&nbsp; *Sanjay Patra, Executive Director, Financial Management Service Foundation, New \*\*Delhi*
 
 > John Cammack says that one of the key qualities of a book-keeper or treasurer for a community organization is being “able to explain financial matters to those who have less experience”. John just does that in this book. He sets out clearly how anyone, whether they have previous experience of finance or not, can follow simple steps to keep good accounts. This books shows that managing money well can be simple and is possible for everyone and every group. <cite>Tim Boyes-Watson, Director of Mango (Management Accounting for NGOs)</cite>
 
