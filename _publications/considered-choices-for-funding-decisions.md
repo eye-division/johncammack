@@ -30,7 +30,7 @@ Development in Practice: volume 23 Issue 4 June 2013
 
 NGOs regularly seek funding from a variety of donors, to help them to deliver worthwhile activities. Often the activities work well and a donor covers the full cost. But sometimes a successful funding proposal can make the organisation vulnerable, by committing itself to additional overhead expenditure not covered by a donor.
 
-This article looks at a system whereby the financial aspects of project proposals can be assessed earlier, before funding is applied for and accepted - providing a way of knowing the impact on the organisation and its staff, and allowing organisations to calculate the real cost of donor funded projects. [Click here](http://www.tandfonline.com/eprint/fA9QF4wYkrMAjwQjc7c6/full)
+This article looks at a system whereby the financial aspects of project proposals can be assessed earlier, before funding is applied for and accepted - providing a way of knowing the impact on the organisation and its staff, and allowing organisations to calculate the real cost of donor funded projects.&nbsp;
 
 [Further details](http://www.ingentaconnect.com/content/routledg/cdip/2013/00000023/00000004/art00012)
 
