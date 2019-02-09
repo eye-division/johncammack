@@ -2,9 +2,7 @@
 title: >-
   Considered choices for funding decisions: how to calculate the real cost of
   donor-funded projects; when to say “yes” and when to say “no”
-subtitle: >-
-  how to calculate the real cost of donor-funded projects; when to say “yes” and
-  when to say “no”
+subtitle:
 article: true
 buy_url:
 author: John Cammack
