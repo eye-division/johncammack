@@ -9,8 +9,8 @@ description_html: >-
   we do not have enough money to pay it until we receive money owed to us. As
   individuals, we can generally keep these details in our head, but this is not
   possible within a group or organisation. The article provides a guide to
-  managing your cash flow.</p><p>To read the article go to:<br /><a
-  target="_blank"
+  managing your cash flow.</p><p><a href="__notset__">To read the article go
+  to:</a><br /><a target="_blank"
   href="http://tilz.tearfund.org/en/resources/publications/footsteps/footsteps_51-60/footsteps_57/managing_cash_flow/">tilz.tearfund.org</a></p>
 description_teaser_markdown: >-
   Many of us have experienced the situation where we have a bill to pay, but we
@@ -30,3 +30,4 @@ _comments:
   permalink: Be careful editing this
   main_image_path: Image used to represent your gallery
 ---
+
