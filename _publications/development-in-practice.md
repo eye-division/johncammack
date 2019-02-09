@@ -1,6 +1,6 @@
 ---
 title: 'Finance: friend or foe?'
-subtitle: 'Article:'
+subtitle:
 article: true
 author: John Cammack
 buy_url:
@@ -23,8 +23,12 @@ _comments:
   main_image_path: Image used to represent your gallery
 ---
 
+John Cammack
+
+Development in Practice: volume 7&nbsp; Number 1 1997
+
 Financial accountability is as important in development agencies as in other organisations, although providing expenses statements, keeping ![](/assets/images/Dev in practice logo.gif) accurate accounts, and setting and monitoring budgets are often seen by development workers as excessively bureaucratic tasks. The author argues that a small amount of training in simple, workable accounting procedures can enable people to obtain useful data from their accounts, and help with planning future expenditure.
 
 For more details/to read online (at page 79):<br>[developmentinpractice.org](http://www.tandfonline.com/doi/pdf/10.1080/09614529754774)
 
-in Vol. 7, Number 1 - 1997
+&nbsp;
