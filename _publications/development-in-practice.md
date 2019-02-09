@@ -23,7 +23,11 @@ _comments:
   main_image_path: Image used to represent your gallery
 ---
 
-John Cammack
+John Cammack&nbsp;
+
+1997
+
+Intrac
 
 Development in Practice: volume 7&nbsp; Number 1 1997
 
