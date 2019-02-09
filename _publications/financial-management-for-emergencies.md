@@ -23,5 +23,4 @@ _comments:
 
 This on-line guide will help humanitarian programme managers manage financial resources in the critical first stages of an emergency. It will help to make sure that you have: a useful budget, good relationships with donors, enough cash, the right finance staff, systems to record income and expenditure and systems to control how money is used. Written by three authors with extensive practical field experience.
 
-For more details go to the website:  
-[fme-online.org](http://www.fme-online.org)
+For more details:<br>[fme-online.org](http://www.fme-online.org)
