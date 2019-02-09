@@ -23,12 +23,6 @@ _comments:
   main_image_path: Image used to represent your gallery
 ---
 
-John Cammack&nbsp;
-
-1997
-
-Intrac
-
 Development in Practice: volume 7&nbsp; Number 1 1997
 
 Financial accountability is as important in development agencies as in other organisations, although providing expenses statements, keeping ![](/assets/images/Dev in practice logo.gif) accurate accounts, and setting and monitoring budgets are often seen by development workers as excessively bureaucratic tasks. The author argues that a small amount of training in simple, workable accounting procedures can enable people to obtain useful data from their accounts, and help with planning future expenditure.
