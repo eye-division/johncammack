@@ -10,7 +10,7 @@ description_html: >-
   we do not have enough money to pay it until we receive money owed to us. As
   individuals, we can generally keep these details in our head, but this is not
   possible within a group or organisation. The article provides a guide to
-  managing your cash flow.</p><p><a
+  managing your organisation's cash flow.</p><p><a
   href="https://learn.tearfund.org/en/resources/publications/footsteps/footsteps_51-60/footsteps_57/managing_cash_flow/"><u>For
   more details/to read the article</u></a></p>
 description_teaser_markdown: >-
@@ -32,6 +32,6 @@ _comments:
   main_image_path: Image used to represent your gallery
 ---
 
-Many of us have experienced the situation where we have a bill to pay, but we do not have enough money to pay it until we receive money owed to us. As individuals, we can generally keep these details in our head, but this is not possible within a group or organisation. The article provides a guide to managing your cash flow.
+Many of us have experienced the situation where we have a bill to pay, but we do not have enough money to pay it until we receive money owed to us. As individuals, we can generally keep these details in our head, but this is not possible within a group or organisation. The article provides a guide to managing your organisation's cash flow.
 
 [For more details/to read the article](https://learn.tearfund.org/en/resources/publications/footsteps/footsteps_51-60/footsteps_57/managing_cash_flow/)
