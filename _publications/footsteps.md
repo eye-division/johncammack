@@ -1,6 +1,6 @@
 ---
 title: Managing cash flow
-subtitle: Footsteps
+subtitle: 'Footsteps, number 57'
 article: true
 buy_url: >-
   https://learn.tearfund.org/en/resources/publications/footsteps/footsteps_51-60/footsteps_57/managing_cash_flow/
