@@ -32,3 +32,6 @@ _comments:
   main_image_path: Image used to represent your gallery
 ---
 
+Many of us have experienced the situation where we have a bill to pay, but we do not have enough money to pay it until we receive money owed to us. As individuals, we can generally keep these details in our head, but this is not possible within a group or organisation. The article provides a guide to managing your cash flow.
+
+For more details/to read the article
