@@ -20,7 +20,7 @@ baseurl: ""
 # the base hostname & protocol for your site
 url: "https://www.johncammack.net"
 logo: "/assets/logo.png"
-email: a.ward@eyedivision.com
+email: john@johncammack.net
 
 # Build settings
 markdown: kramdown
@@ -33,7 +33,7 @@ highlightjs_theme: "monokai-sublime"
 # Image CDN
 imagecdn:
   staging: "https://ed-johncammack-dev.imgix.net" # http://moss-chair.cloudvent.net/
-  #production: "https://ed-johncammack.imgix.net"
+  production: "https://ed-johncammack.imgix.net"
 
 # Collections Example
 collections:
