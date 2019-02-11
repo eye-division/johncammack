@@ -44,8 +44,8 @@ _comments:
 <label>Message</label>
 <textarea name="message"></textarea>
 </p>
-{% if site.recaptcha_site_key %}
-<div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
+{% if site.recaptcha_site_key and jekyll.environment == 'production' %}
+  <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
 {% endif %}
 <p>
 <input type="submit" value="Send message" />
