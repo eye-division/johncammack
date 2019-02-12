@@ -2,8 +2,7 @@
 title: Managing cash flow
 subtitle: 'Footsteps, number 57'
 article: true
-buy_url: >-
-  https://learn.tearfund.org/en/resources/publications/footsteps/footsteps_51-60/footsteps_57/managing_cash_flow/
+buy_url: 
 author: John Cammack
 description_html: >-
   <p>Many of us have experienced the situation where we have a bill to pay, but

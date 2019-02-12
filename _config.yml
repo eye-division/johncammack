@@ -20,7 +20,7 @@ baseurl: ""
 # the base hostname & protocol for your site
 url: "https://www.johncammack.net"
 logo: "/assets/logo.png"
-email: john@johncammack.net
+email: "john@johncammack.net"
 
 # Build settings
 markdown: kramdown
