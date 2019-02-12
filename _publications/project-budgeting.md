@@ -18,8 +18,10 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 _comments:
-  permalink: Be careful editing this
-  main_image_path: Image used to represent your gallery
+  permalink: Web page address - be careful editing this
+  main_image_path: Book cover image
+  article: check this if the publication is an article
+  buy_url: Web address for purchasing the book
 ---
 
 Bond's new guide on the basics of project budgeting covers the key areas of planning and monitoring budgets, and gives clear guidance on cash flow forecasts and how the end of year financial statements link with the budgeting process. There is checklist of budgeting good practice and details of where to find more information.

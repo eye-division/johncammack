@@ -27,8 +27,10 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 _comments:
-  permalink: Be careful editing this
-  main_image_path: Image used to represent your gallery
+  permalink: Web page address - be careful editing this
+  main_image_path: Book cover image
+  article: check this if the publication is an article
+  buy_url: Web address for purchasing the book
 ---
 
 Many of us have experienced the situation where we have a bill to pay, but we do not have enough money to pay it until we receive money owed to us. As individuals, we can generally keep these details in our head, but this is not possible within a group or organisation. The article provides a guide to managing your organisation's cash flow.

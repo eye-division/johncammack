@@ -26,8 +26,10 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 _comments:
-  permalink: Be careful editing this
-  main_image_path: Image used to represent your gallery
+  permalink: Web page address - be careful editing this
+  main_image_path: Book cover image
+  article: check this if the publication is an article
+  buy_url: Web address for purchasing the book
 ---
 
 This book presents practical ways to build financial management capacity in an international development context, although much of it applies to any non-profit organization. It describes good practice in the specific tasks of  financial management – for example, planning and budgeting and financial controls, and gives examples of how groups and organizations build their own capacity. It considers what leadership teams can do to guide their organization’s longer-term direction and improve governance. It explains other financial management aspects such as building reserves that can be built into an organization’s structure to make it sustainable.

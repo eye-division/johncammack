@@ -19,8 +19,10 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 _comments:
-  permalink: Be careful editing this
-  main_image_path: Image used to represent your gallery
+  permalink: Web page address - be careful editing this
+  main_image_path: Book cover image
+  article: check this if the publication is an article
+  buy_url: Web address for purchasing the book
 ---
 
 Written for non-financial staff and members of governing bodies of NGOs, who need to understand financial systems and statements. This book shows records and statements used within organisations and how these can be interpreted. Chapters are also included on audit and financial controls. There are checklists given for analysing accounts and assessing financial systems. International variations in terminology and format and a comprehensive glossary are shown in appendices.

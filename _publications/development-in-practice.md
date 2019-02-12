@@ -19,8 +19,10 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 _comments:
-  permalink: Be careful editing this
-  main_image_path: Image used to represent your gallery
+  permalink: Web page address - be careful editing this
+  main_image_path: Book cover image
+  article: check this if the publication is an article
+  buy_url: Web address for purchasing the book
 ---
 
 Development in Practice: volume 7&nbsp; Number 1 1997

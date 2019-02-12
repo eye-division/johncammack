@@ -17,8 +17,10 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 _comments:
-  permalink: Be careful editing this
-  main_image_path: Image used to represent your gallery
+  permalink: Web page address - be careful editing this
+  main_image_path: Book cover image
+  article: check this if the publication is an article
+  buy_url: Web address for purchasing the book
 ---
 
 This on-line guide will help humanitarian programme managers manage financial resources in the critical first stages of an emergency. It will help to make sure that you have: a useful budget, good relationships with donors, enough cash, the right finance staff, systems to record income and expenditure and systems to control how money is used. Written by three authors with extensive practical field experience.
