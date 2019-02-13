@@ -1,10 +1,10 @@
 // Google Fonts
-@import url(//fonts.googleapis.com/css?family=EB+Garamond:400|Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300|Lato:300,400);
+@import url(//fonts.googleapis.com/css?family=Bitter:400|Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300);
 /// Typography
 $base-font-family: ('Open Sans',  'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif); // $helvetica;
-$heading-font-family: ('EB Garamond', serif); // $base-font-family;
-$subheading-font-family: ('EB Garamond', serif);
-$logo-font-family: ('EB Garamond', serif);
+$heading-font-family: ('Bitter', serif); // $base-font-family;
+$subheading-font-family: ('Bitter', serif);
+$logo-font-family: ('Bitter', serif);
 // Font Sizes
 $base-font-size: $em-base; // 16px
 
@@ -13,7 +13,7 @@ $modular-scale-ratio: $minor-third;
 
 /// Line height
 $base-line-height: 1.8;
-$heading-line-height: 1.8;
+$heading-line-height: 1.6;
 
 // Other Sizes
 $base-border-radius: 3px;
@@ -69,6 +69,10 @@ $base-font-color: $dark-gray;
 // link colours
 $action-color: $jc-blue;
 $highlight-color: tint($action-color, 33%);
+// inverse link colours
+$inverse-color: $white;
+$inverse-highlight: tint($action-color, 80%);
+
 // Accessible link colours
 $aaa-link: rgb(51, 68, 221);
 $aaa-hover: rgb(181, 0, 16);
@@ -91,8 +95,9 @@ $navigation-submenu-padding: 1em;
 $navigation-submenu-width: 15em;
 // navigation colours
 $navigation-color: $white;
-$navigation-color-hover: $orange;
-$navigation-active-link-color: transparentize(white, 0.5);
+$navigation-color-hover: $white;
+$navigation-active-link-color: $white;
+$navigation-bgcolor-hover: darken($jc-blue-light,10%);
 
 // drop down variables
 $dropdown-color: $base-font-color;

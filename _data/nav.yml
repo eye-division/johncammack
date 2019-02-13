@@ -1,17 +1,47 @@
 - title: "Home"
   href: "/"
 
-- title: "Contact"
-  href: "/contact/"
-
 - title: "About"
   href: "/about/"
+  subcategories:
+    - subtitle: "Recent clients"
+      subhref: "/about/recent-clients/"
+    - subtitle: "Style of working"
+      subhref: "/about/style-of-working/"
+    - subtitle: "Testimonials"
+      subhref: "/about/testimonials/"
 
 - title: "Training"
   href: "/training/"
+  subcategories:
+    - subtitle: "Courses offered"
+      subhref: "/training/courses-offered/"
+    - subtitle: "Financial management"
+      subhref: "/training/financial-management/"
+    - subtitle: "Communicating finance"
+      subhref: "/training/communicating-finance/"
+    - subtitle: "Training trainers"
+      subhref: "/training/training-trainers/"
+    - subtitle: "Coaching/facilitation"
+      subhref: "/training/coaching-facilitation/"
+    - subtitle: "Educational courses"
+      subhref: "/training/educational-courses/"
+    - subtitle: "Course design"
+      subhref: "/training/course-design/"
+    - subtitle: "Success stories"
+      subhref: "/training/success-stories/"
 
-- title: "Advisory"
+- title: "Consultancy"
   href: "/consultancy/"
+  subcategories:
+    - subtitle: "Building capacity"
+      subhref: "/consultancy/building-capacity/"
+    - subtitle: "Fit for funding"
+      subhref: "/consultancy/fit-for-funding/"
+    - subtitle: "Management review"
+      subhref: "/consultancy/management-review/"
+    - subtitle: "NGO financial package"
+      subhref: "/consultancy/ngo-financial-package/"
 
 - title: "Publications"
   href: "/publications/"
@@ -21,6 +51,20 @@
 
 - title: "Resources"
   href: "/resources/"
+  subcategories:
+    - subtitle: "Building capacity"
+      subhref: "/resources/building-capacity/"
+    - subtitle: "Project budgeting"
+      subhref: "/resources/project-budgeting/"
+    - subtitle: "Communicating finance"
+      subhref: "/resources/communicating-finance/"
+    - subtitle: "Cross cultural communication and training"
+      subhref: "/resources/cross-cultural-communication-and-training/"
+    - subtitle: "More resources"
+      subhref: "/resources/more-resources/"
 
 - title: "Links"
   href: "/links/"
+
+- title: "Contact"
+  href: "/contact/"

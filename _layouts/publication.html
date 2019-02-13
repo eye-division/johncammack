@@ -1,0 +1,45 @@
+---
+layout: page
+
+---
+<article class="publication">
+
+  <header>
+      <div class="border">
+          <p>{% if page.subtitle %}
+            <span class="subtitle"><em>{{ page.subtitle }}</em></span><br>
+          {% endif %}
+          {% if page.author %}
+            <span class="author">{{ page.author }}</span><br>
+          {% endif %}
+          {% if page.publication_date %}
+            <span class="publication_date">{{ page.publication_date | date: "%B %Y" }}</span><br>
+          {% endif %}
+          {% if page.publisher %}
+            <span class="publisher">{{ page.publisher }}</span>
+          {% endif %}
+
+        {% if page.buy_url  %}
+          <br><a href="{{ page.buy_url }}" class="button">Buy book</a>
+        {% endif %}
+        </p>
+    </div>
+  </header>
+
+{% if content %}
+
+    {{ content }}
+
+  {% endif %}
+
+
+
+</article>
+
+<footer class="footer">
+
+  <p>
+    <a href="/publications/"><svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_left" /></svg> Return to publications</a>
+  </p>
+
+</footer>

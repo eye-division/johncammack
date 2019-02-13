@@ -1,10 +1,12 @@
-# External gems
-gems:
-  - jekyll-sitemap
-  - jekyll-paginate
 
-exclude:
-  - "/vendor/"
+plugins:
+ # - jekyll-archives # Sorry, not GitHub pages friendly!
+ # - jekyll-assets
+ # - autoprefixer-rails
+   - jekyll-seo-tag
+   - jekyll-sitemap
+   - jekyll/tagging
+   - jekyll-tagging-related_posts
 
 # Site settings
 title: John Cammack
@@ -18,27 +20,27 @@ baseurl: ""
 # the base hostname & protocol for your site
 url: "https://www.johncammack.net"
 logo: "/assets/logo.png"
-email: a.ward@eyedivision.com
+email: "john@johncammack.net"
 
 # Build settings
 markdown: kramdown
-paginate: 5
-paginate_path: "/page:num/"
-inter_post_navigation: false
+#paginate: 5
+#paginate_path: "/page:num/"
+#inter_post_navigation: false
 permalink: pretty
 highlightjs_theme: "monokai-sublime"
 
 # Image CDN
 imagecdn:
-  #staging: "http://ed-dev.imgix.net"
-  #production: "http://ed.imgix.net"
+  staging: "https://ed-johncammack-dev.imgix.net" # http://moss-chair.cloudvent.net/
+  production: "https://ed-johncammack.imgix.net"
 
 # Collections Example
 collections:
     publications:
         output: true
         permalink: /publications/:path/
-        _hide_content: true
+        #_hide_content: true
 
 
 # Defaults Example
@@ -46,16 +48,21 @@ defaults:
     -
         scope:
             path: ""
-            type: "publications"
         values:
             layout: "page"
+    -
+        scope:
+            path: ""
+            type: "publications"
+        values:
+            layout: "publication"
 
 
 # Google analytics
 ga_tracking_id: "UA-111283892-1"
 
 # Google Recaptcha for contact form
-recaptcha_site_key: 6LdjSh4UAAAAAKC4U7lwgH-9_hAPAoovp_j9G7zM
+recaptcha_site_key: "6LdjSh4UAAAAAKC4U7lwgH-9_hAPAoovp_j9G7zM"
 
 # Social icons and sharing options
 #
@@ -87,17 +94,10 @@ social:
     desc: Like us on Facebook
     share: true
 
-  - name: GitHub
-    icon: github
-    username:
-    url:
-    desc: Fork us on GitHub
-    share: false
-
   - name: LinkedIn
-    icon: linkedin
-    username:
-    url: http://www.linkedin.com/in/johncammack
+    icon: icon-linkedin
+    username: johncammack
+    url: https://www.linkedin.com/in/johncammack
     desc: Connect with us on LinkedIn
     share: true
 
@@ -121,13 +121,6 @@ social:
     url:
     desc: Follow me on Pinterest
     share: true
-
-  - name: SoundCloud
-    icon: soundcloud
-    username:
-    url:
-    desc: Follow me on SoundCloud
-    share: false
 
   - name: Vimeo
     icon: vimeo-square

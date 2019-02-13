@@ -1,0 +1,21 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the sidebar of the site/application.
+// -----------------------------------------------------------------------------
+
+.with--aside {
+    /*@include media ($medium-screen-up) {
+      float: left;
+      width: 60%;
+    }*/
+}
+
+.aside {
+    border-top: 4px solid $action-color;
+    @include media ($medium) {
+      //border-top: none;
+    }
+}
+.widget {
+  border-top: 4px solid $action-color;
+  padding-top: 20px;
+}

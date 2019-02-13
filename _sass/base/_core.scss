@@ -13,6 +13,9 @@ html, body {
 html {
     height: 100%;
 }
+
+// set up grid
+
 body {
     height: 100%;
     @include display(flex);
@@ -23,8 +26,11 @@ body {
       "header"
       "page"
       "footer";
-    grid-template-rows: minmax(180px, 10%) 1fr 20%;
+    grid-template-rows: 20% 1fr minmax(240px,20%);
     grid-gap: 10px;
+    @include media ($small) {
+        grid-template-rows: 170px 1fr minmax(240px,20%);//grid-template-rows: minmax(190px, 20%) 1fr minmax(240px,20%);
+    }
     height: 100vh;
     margin: 0;
     background-color: $base-background-color;
@@ -78,36 +84,31 @@ figure {
 }
 
 ///	Body
-
 .page-content {
-
-    .page {
-        @include outer-container;
-        padding: 1em;
-        background-color: $white;
-        @include media ($medium) {
-            padding: 1em 0;
-        }
-    }
-    ///	index.html
-    .site-header-container {
-        color: $white;
-        text-shadow: 0 2px 1px rgba(0,0,0,0.33);
-        background-color: $highlight-color;
-        .site-header{
-            .title {
-                font-size: modular-scale(6);
-            }
-            .subtitle {
-                font-style: italic;
-                font-size: modular-scale(1);
-            }
-        }
-    }
-    img {
-        display: block;
-        margin: auto;
-        max-width: 100%;
+    @include outer-container;
+}
+.page {
+    //@include outer-container;
+    padding: 1em;
+    background-color: $white;
+    @include media ($medium) {
+        padding: 1em 0;
     }
 }
+.page.two-column {
+
+    @include media ($medium) {
+        display: grid;
+        grid-template-columns: 70% 30%;
+        grid-gap: 10px;
+        align-items: start;
+        align-content: start;
+    }
+}
+img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+}
+
 

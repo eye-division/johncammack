@@ -6,13 +6,18 @@ $footer-background: $jc-blue-light;
 $footer-color: $white;
 
 .site-footer {
-    @include outer-container;
+    //@include outer-container;
     padding: 1em;
     background-color: $footer-background;
+    border-top: 4px solid $action-color;
     color: $footer-color;
     .wrapper {
         //@include outer-container;
         padding: 0 1em;
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-gap: 10px;
+        align-items: center;
     }
     a {
         //color: $link-color;
@@ -31,9 +36,9 @@ $footer-color: $white;
 ///  Site Navigation (left)
 
 .site-navigation {
-    @include span-columns(12);
+    //@include span-columns(12);
     @include media ($small) {
-        @include span-columns(6);
+        //@include span-columns(6);
     }
     font-size: 0.9em;
     ul {
@@ -46,25 +51,24 @@ $footer-color: $white;
 .site-signature {
     margin-top: 1em;
     text-align: center;
-    @include span-columns(12);
+    //@include span-columns(12);
     @include media ($medium) {
-        @include span-columns(6);
+        //@include span-columns(6);
         margin-right: 0;
         margin-top: 0;
     }
     font-size: 0.9em;
-    a {
-        text-decoration: underline;
-    }
+
 }
 
 ///   Contact Info (center)
 
 .site-contact {
+    text-align: center;
     margin-top: 1em;
-    @include span-columns(12);
+    //@include span-columns(12);
     @include media ($small) {
-        @include span-columns(6);
+       //@include span-columns(6);
         margin-top: 0;
         margin-right: 0;
     }

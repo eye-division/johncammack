@@ -1,8 +1,8 @@
 ---
 title: ''
 subtitle:
-description_html:  ''
-teaser_description_markdown:
+article: false
+description_teaser_markdown:
 publication_date: ''
 publisher: ''
 buy_url: ''
@@ -15,6 +15,8 @@ _options:
     resize_style: "contain"
     mime_type: "image/jpeg"
 _comments:
-  permalink: Be careful editing this
-  main_image_path: Image used to represent your gallery
+  permalink: Web page address - be careful editing this
+  main_image_path: Book cover image
+  article: check this if the publication is an article
+  buy_url: Web address for purchasing the book
 ---
