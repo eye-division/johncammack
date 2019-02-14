@@ -6,7 +6,7 @@ subtitle:
 article: false
 author: John Cammack
 buy_url: >-
-  https://developmentbookshop.com/basic-accounting-for-community-organizations-and-small-groups
+  https://developmentbookshop.com/basic-accounting-for-community-organizations-and-small-groups#
 description_teaser_markdown: >-
   The success of any venture, whatever its size, depends on proper financial
   control. This book offers a step-by-step guide to basic accounting and
