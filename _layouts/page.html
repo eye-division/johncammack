@@ -45,7 +45,11 @@ layout: default
 
       {% for video in page.videos %}
         {% if video.videoid %}
+          {% if video.videotype == 'Vimeo' %}
+            {% include vimeoplayer.html id=video.videoid %}
+          {% else %}
             {% include youtubeplayer.html id=video.videoid %}
+          {% endif %}
           {% if video.description %}
             <p class="description">{{ video.description }}</p>
           {% endif %}
