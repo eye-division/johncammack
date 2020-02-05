@@ -2,7 +2,24 @@
 title: Cross-Cultural Organizational and Financial Training
 subtitle: A practical guide
 article: false
-description_teaser_markdown:
+description_teaser_markdown: >-
+  Do you want to engage with people from cultures other than your own in your
+  training events? Are you looking to deliver training that is memorable and
+  transformative? Do you want all your participants to be fully committed to the
+  learning process?
+
+
+  Trainers entering new cultures can find it difficult to build rapport, and to
+  deliver sessions that are culturally appropriate. Participants may be not be
+  using their first language to learn. All these questions can be challenging.
+  However, training cross-culturally offers great opportunities to find creative
+  ways of learning.
+
+
+  *Cross-Cultural Organizational and Financial Training* offers a clear and
+  accessible way of designing, planning, delivering, and evaluating, when
+  training across cultures. It suggests participatory approaches to training and
+  learning which can be most effective cross-culturally.
 publication_date: 2020-05-15 00:00:00
 publisher: 'Practical Action Publishing, UK'
 buy_url: 'https://developmentbookshop.com/catalogsearch/result/?q=cammack'
