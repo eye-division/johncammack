@@ -1,5 +1,5 @@
 ---
-title: Cross-Cultural Organizational and Financial Training
+title: 'NEW: Cross-Cultural Organizational and Financial Training'
 subtitle: A practical guide
 article: false
 description_teaser_markdown: >-
