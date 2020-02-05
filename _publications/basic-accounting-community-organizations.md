@@ -2,7 +2,7 @@
 title: >-
   Basic Accounting for Community Organizations and Small Groups: a practical
   guide, 3rd edition with facilitator's/training guide
-subtitle:
+subtitle: A practical guide
 article: false
 author: John Cammack
 buy_url: >-
@@ -36,7 +36,7 @@ Full solutions and notes for trainers and facilitators are also included. Basic 
 
 **Endorsements**
 
-> Basic Accounting for Community Organizations and Small Groups is much needed for the NGO sector. Many organisations are small and therefore this book fills their need. It is written in a simple manner from a layman’s perspective, and will be very useful. This book can be summarised as “the power of keeping things simple".  *Sanjay Patra, Executive Director, Financial Management Service Foundation, New Delhi*
+> Basic Accounting for Community Organizations and Small Groups is much needed for the NGO sector. Many organisations are small and therefore this book fills their need. It is written in a simple manner from a layman’s perspective, and will be very useful. This book can be summarised as “the power of keeping things simple".&nbsp; *Sanjay Patra, Executive Director, Financial Management Service Foundation, New Delhi*
 
 > John Cammack says that one of the key qualities of a book-keeper or treasurer for a community organization is being “able to explain financial matters to those who have less experience”. John just does that in this book. He sets out clearly how anyone, whether they have previous experience of finance or not, can follow simple steps to keep good accounts. This books shows that managing money well can be simple and is possible for everyone and every group. <cite>Tim Boyes-Watson, Director of Mango (Management Accounting for NGOs)</cite>
 
@@ -46,4 +46,4 @@ Further details/buy at Practical Action Publishing For online discount and a *fu
 
 Also available through online booksellers
 
-**[Special offer: buy all three Practical Action books for £30](http://developmentbookshop.com/cammack-special-offer){: target="_blank"}**
+**[Special offer: buy all three Practical Action books for &pound;30](http://developmentbookshop.com/cammack-special-offer){: target="_blank"}**
