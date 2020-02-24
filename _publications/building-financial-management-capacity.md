@@ -2,7 +2,7 @@
 title: >-
   Building Financial Management Capacity for NGOs and Community Organizations,
   2nd edition
-subtitle:
+subtitle: A practical guide
 article: false
 buy_url: >-
   https://developmentbookshop.com/building-financial-management-capacity-for-ngos-and-community-organizations
