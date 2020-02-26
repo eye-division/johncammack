@@ -1,36 +1,128 @@
 ---
 layout: default
+
 ---
-<div class="page">
+<div class="page{% if page.aside  %} two-column{% endif %}">
 
-  <header class="post-header">
-    <h2 class="post-title">{{ page.title }}</h2>
-  </header>
+  {% if page.aside  %}
+  <div class="with--aside">
+  {% endif %}
 
-	{% if page.main_image_path %}
-		<figure>
-		{% assign alt_text = page.title %}
-		{% if page.image_caption %} {% assign alt_text = page.image_caption %} {% endif %}
-		{% include img.html src=page.main_image_path alt=alt_text %}
-		<figcaption>{{ alt_text }}</figcaption>
-		</figure>
-	{% endif %}
+    <header class="post-header">
+      <h2 class="post-title">{{ page.title }}</h2>
+    </header>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+    {% if page.main_image_path %}
+      <figure>
+      {% assign alt_text = page.title %}
+      {% if page.image_caption %} {% assign alt_text = page.image_caption %} {% endif %}
+      {% include img.html src=page.main_image_path alt=alt_text %}
+      {% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}
+      </figure>
+    {% endif %}
 
-  {% if page.videos %}
+    <article class="post-content">
+      {{ content }}
+    </article>
 
-    {% for video in page.videos %}
-      {% if video.videoid %}
-        {% include youtubeplayer.html id=video.videoid %}
-        {% if video.description %}
-          <p class="description">{{ video.description }}</p>
+    {% if page.images[0].image_path %}
+      <section class="gallery">
+        {% for image in page.images %}
+          {% if image.image_path %}
+          <div class="gallery-box {% cycle 'alpha', '', 'last' %}">
+              {% include img.html src=image.image_path width=1200 alt=image.image_description %}
+            <caption>{{ image.image_title }}</caption>
+            {% if image.image_description %}
+              <p>{{ image.image_description }}</p>
+            {% endif %}
+          </div>
+          {% endif %}
+        {% endfor %}
+      </section>
+    {% endif %}
+
+    {% if page.videos %}
+
+      {% for video in page.videos %}
+        {% if video.videoid %}
+          {% if video.videotype == 'Vimeo' %}
+            {% include vimeoplayer.html id=video.videoid %}
+          {% else %}
+            {% include youtubeplayer.html id=video.videoid %}
+          {% endif %}
+          {% if video.description %}
+            <p class="description">{{ video.description }}</p>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+    {% endif %}
+
+
+  {% if page.aside %}
+  </div><!-- end with-aside -->
+
+  <div class="aside"><!-- start aside -->
+
+    {% assign publications = site.publications | where: "homepage", true %}
+
+    <ul class="inline">
+
+    {% for publication in publications %}
+
+        {% if publication %}
+
+          <li>
+            <a href="{{ publication.permalink }}">{% include img.html src=publication.main_image_path width=1200 alt=publication.title %}</a><br>
+            Publication date: {{ publication.publication_date | date: "%B %Y" }}
+            {% if publication.homepage_teaser_markdown %}
+              {{ publication.homepage_teaser_markdown | markdownify }}
+            {% endif %}
+          </li>
+
+        {% endif %}
+
+    {% endfor %}
+
+    </ul>
+
+    {% for link in site.data.nav %}
+      {% if link.subcategories != null %}
+        {% if page.url contains link.href %}
+          <ul class="submenu default">
+            {% for subcategory in link.subcategories %}
+              <li class="{% unless link.title == "Home" %}{% if page.url contains subcategory.subhref %} active{% endif %}{% endunless %}"><a href="{{ subcategory.subhref | prepend: site.baseurl }}">{{ subcategory.subtitle }}</a></li>
+            {% endfor %}
+          </ul>
         {% endif %}
       {% endif %}
     {% endfor %}
 
+    {% if page.twitterfeed %}
+
+      {% for social in site.social %}
+
+        {% if social.name == "Twitter" %}
+
+          <div class="widget twitter">
+
+            <a class="twitter-timeline" data-height="400" href="https://twitter.com/{{ social.username }}?ref_src=twsrc%5Etfw">Tweets by {{ social.username }}</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          </div>
+
+        {% endif %}
+
+      {% endfor %}
+
+    {% endif %}
+
+    {% if page.side_images %}
+    <ul class="inline">
+      {% for side in page.side_images %}
+      <li><a href="{{ side.link }}">{% include img.html src=side.image_path width=1200 alt=side.image_alt %}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </div><!-- end aside -->
   {% endif %}
 
 </div>
