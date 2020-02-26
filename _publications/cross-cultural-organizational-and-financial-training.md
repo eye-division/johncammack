@@ -24,6 +24,9 @@ publication_date: 2020-05-15 00:00:00
 publisher: 'Practical Action Publishing, UK'
 buy_url: 'https://developmentbookshop.com/catalogsearch/result/?q=cammack'
 permalink: /publications/cross-cultural-organizational-and-financial-training/
+homepage: true
+homepage_teaser_markdown: >-
+
 main_image_path: /uploads/cross-cultural-book-cover-jan-2020.jpg
 _options:
   main_image_path:
@@ -36,6 +39,8 @@ _comments:
   main_image_path: Book cover image
   article: check this if the publication is an article
   buy_url: Web address for purchasing the book
+  homepage: show this on the homepage
+  homepage_teaser_markdown: teaser text for homepage
 ---
 
 ![](/uploads/cross-cultural-book-cover-jan-2020.png){: width="1292" height="910"}
