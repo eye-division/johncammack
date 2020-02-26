@@ -26,13 +26,14 @@ buy_url: 'https://developmentbookshop.com/catalogsearch/result/?q=cammack'
 permalink: /publications/cross-cultural-organizational-and-financial-training/
 homepage: true
 homepage_teaser_markdown: >-
-  ### ***NEW BOOK: PUBLISHED MAY 2020***
-
-
   Do you want to engage with people from cultures other than your own in your
   training events? Are you looking to deliver training that is memorable and
-  transformative? Do you want all your participants to be fully committed to the
-  learning process?
+  transformative?
+
+
+  *Cross-Cultural Organizational and Financial Training* offers a clear and
+  accessible way of designing, planning, delivering, and evaluating, when
+  training across cultures.
 main_image_path: /uploads/cross-cultural-book-cover-jan-2020.jpg
 _options:
   main_image_path:
