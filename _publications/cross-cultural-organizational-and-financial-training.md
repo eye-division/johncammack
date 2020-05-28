@@ -13,8 +13,8 @@ description_teaser_markdown: >-
   Trainers entering new cultures can find it difficult to build rapport, and to
   deliver sessions that are culturally appropriate. Participants may be not be
   using their first language to learn. All these questions can be challenging.
-  However, training cross-culturally offers great opportunities to find creative
-  ways of learning.
+  However, training cross-culturally offers great opportunities to find ways of
+  learning.
 
 
   *Cross-Cultural Organizational and Financial Training* offers a clear and
