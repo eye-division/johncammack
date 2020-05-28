@@ -6,7 +6,7 @@ description_teaser_markdown: >-
   Do you want to engage with people from cultures other than your own in your
   training events? Are you looking to deliver training that is memorable and
   transformative? Do you want all your participants to be fully committed to the
-  learning process? Are you new to delivering online learning and want to know
+  learning process? Are you new to delivering online training and want to know
   more?
 
 
