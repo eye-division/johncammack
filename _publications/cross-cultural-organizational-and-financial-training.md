@@ -23,8 +23,9 @@ description_teaser_markdown: >-
   learning which can be most effective cross-culturally.
 publication_date: 2020-08-15 00:00:00
 publisher: 'Practical Action Publishing, UK'
-buy_url: 'https://developmentbookshop.com/catalogsearch/result/?q=cammack'
-permalink: /publications/cross-cultural-organizational-and-financial-training/
+buy_url: 'https://www.youtube.com/watch?v=AjSeUMYD9nk'
+permalink: >-
+  https://practicalactionpublishing.com/book/428/cross-cultural-organizational-and-financial-training
 homepage: true
 homepage_teaser_markdown: >-
   Do you want to engage with people from cultures other than your own in your
