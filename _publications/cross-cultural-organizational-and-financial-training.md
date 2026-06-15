@@ -1,5 +1,5 @@
 ---
-title: 'NEW: Cross-Cultural Organizational and Financial Training'
+title: Cross-Cultural Organizational and Financial Training
 subtitle: A practical guide
 article: false
 description_teaser_markdown: >-
@@ -22,8 +22,8 @@ description_teaser_markdown: >-
   training across cultures. It suggests participatory approaches to training and
   learning which can be most effective cross-culturally.
 publication_date: 2020-08-15 00:00:00
-publisher: 'Practical Action Publishing, UK'
-buy_url: 'https://www.youtube.com/watch?v=AjSeUMYD9nk'
+publisher: Practical Action Publishing, UK
+buy_url: https://www.youtube.com/watch?v=AjSeUMYD9nk
 permalink: >-
   https://practicalactionpublishing.com/book/428/cross-cultural-organizational-and-financial-training
 homepage: true
@@ -51,5 +51,4 @@ _comments:
   homepage: show this on the homepage
   homepage_teaser_markdown: teaser text for homepage
 ---
-
 ![](/uploads/cross-cultural-book-cover-jan-2020.png){: width="1292" height="910"}
