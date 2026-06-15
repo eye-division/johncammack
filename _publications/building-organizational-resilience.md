@@ -1,5 +1,5 @@
 ---
-title: Building Organizational Resilience
+title: 'NEW: Building Organizational Resilience'
 subtitle: A guide for a secure future
 article: false
 description_teaser_markdown: >-
