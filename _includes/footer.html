@@ -15,7 +15,7 @@
           {% if social.url != null %}
           <li>
             <a href="{{ social.url }}" title="{{ social.desc }}" class="inverse">
-              <svg class="icon {{ social.icon }}"><use xlink:href="#{{ social.icon }}" /></svg>
+              <i class="{{ social.icon }}" title="{{ social.desc }}"></i>
             </a>
           </li>
           {% endif %}
