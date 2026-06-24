@@ -15,7 +15,7 @@
           {% if social.url != null %}
           <li>
             <a href="{{ social.url }}" title="{{ social.desc }}" class="inverse">
-              <svg class="icon {{ social.icon }}"><use xlink:href="#{{ social.icon }}" /></svg>
+              <i class="{{ social.icon }}" title="{{ social.desc }}"></i>
             </a>
           </li>
           {% endif %}
@@ -44,7 +44,7 @@
 {% endif %}
 <script defer src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.1.0/jquery.fitvids.min.js"></script>
 <script src="/js/jquery.flexslider-min.js" defer></script>
-<script src="//cdn.jsdelivr.net/npm/lightbox2@2.10.0/dist/js/lightbox.min.js" defer></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/lightbox2@2.11.3/dist/js/lightbox.min.js" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
 <script src="/js/main.js"></script>
 
