@@ -23,7 +23,7 @@ description_teaser_markdown: >-
   learning which can be most effective cross-culturally.
 publication_date: 2020-08-15 00:00:00
 publisher: Practical Action Publishing, UK
-buy_url: /uploads/cross-cultural-book-cover-june-2020-1.jpg
+buy_url: '  https://practicalactionpublishing.com/book/428/cross-cultural-organizational-and-financial-training'
 permalink: /publications/cross-cultural-organizational-and-financial-training
 homepage: false
 homepage_teaser_markdown: >-
