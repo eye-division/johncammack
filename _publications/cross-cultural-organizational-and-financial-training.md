@@ -51,5 +51,3 @@ _comments:
   homepage_teaser_markdown: teaser text for homepage
 ---
 ![](/uploads/cross-cultural-book-cover-jan-2020.png){: width="1292" height="910"}![](/uploads/cross-cultural-book-cover-june-2020.jpg)
-
-[https://practicalactionpublishing.com/book/428/cross-cultural-organizational-and-financial-training](https://practicalactionpublishing.com/book/428/cross-cultural-organizational-and-financial-training "Cross-Cultural Organizational and Financial Training publisher's link")
