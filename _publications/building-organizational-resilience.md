@@ -26,11 +26,19 @@ homepage_teaser_markdown: >-
   This book is a practical survival guide for leaders and development
   practitioners who need to strengthen their organization’s resilience and
   secure its long-term financial sustainability.
+
+
+  'This is an essential guide for so many leaders and potential leaders!’<br
+  />Dr Christine Allen, Executive Director, CAFOD
 main_image_path: /uploads/building-organizational-resilience-cover.jpg
 videos:
   - videoid: AjSeUMYD9nk
     description: >-
-      Do you want to engage with people from cultures other than your own in your training events? Are you looking to deliver training that is memorable and transformative? Do you want all your participants to be fully committed to the learning process? Are you new to delivering online learning and want to know more?
+      Do you want to engage with people from cultures other than your own in
+      your training events? Are you looking to deliver training that is
+      memorable and transformative? Do you want all your participants to be
+      fully committed to the learning process? Are you new to delivering online
+      learning and want to know more?
 _options:
   main_image_path:
     width: 1200
