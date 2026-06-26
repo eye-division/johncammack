@@ -28,8 +28,9 @@ homepage_teaser_markdown: >-
   secure its long-term financial sustainability.
 main_image_path: /uploads/building-organizational-resilience-cover.jpg
 videos:
-  - videoid:
-    description:
+  - videoid: AjSeUMYD9nk
+    description: >-
+      Do you want to engage with people from cultures other than your own in your training events? Are you looking to deliver training that is memorable and transformative? Do you want all your participants to be fully committed to the learning process? Are you new to delivering online learning and want to know more?
 _options:
   main_image_path:
     width: 1200
