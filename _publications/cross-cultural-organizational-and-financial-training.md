@@ -24,9 +24,8 @@ description_teaser_markdown: >-
 publication_date: 2020-08-15 00:00:00
 publisher: Practical Action Publishing, UK
 buy_url: /uploads/cross-cultural-book-cover-june-2020-1.jpg
-permalink: >-
-  https://practicalactionpublishing.com/book/428/cross-cultural-organizational-and-financial-training
-homepage: true
+permalink: cross-cultural-organizational-and-financial-training
+homepage: false
 homepage_teaser_markdown: >-
   Do you want to engage with people from cultures other than your own in your
   training events? Are you looking to deliver training that is memorable and
@@ -52,3 +51,5 @@ _comments:
   homepage_teaser_markdown: teaser text for homepage
 ---
 ![](/uploads/cross-cultural-book-cover-jan-2020.png){: width="1292" height="910"}![](/uploads/cross-cultural-book-cover-june-2020.jpg)
+
+[https://practicalactionpublishing.com/book/428/cross-cultural-organizational-and-financial-training](https://practicalactionpublishing.com/book/428/cross-cultural-organizational-and-financial-training "Cross-Cultural Organizational and Financial Training publisher's link")
