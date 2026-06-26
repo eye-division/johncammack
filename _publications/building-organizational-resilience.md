@@ -27,6 +27,9 @@ homepage_teaser_markdown: >-
   practitioners who need to strengthen their organization’s resilience and
   secure its long-term financial sustainability.
 main_image_path: /uploads/building-organizational-resilience-cover.jpg
+videos:
+  - videoid:
+    description:
 _options:
   main_image_path:
     width: 1200
