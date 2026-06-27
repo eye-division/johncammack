@@ -28,8 +28,8 @@ homepage_teaser_markdown: >-
   secure its long-term financial sustainability.
 
 
-  "This is an essential guide for so many leaders and potential leaders"<br />Dr
-  Christine Allen, Executive Director, CAFOD
+  *“This is an essential guide for so many leaders and potential leaders”<br
+  />*Dr Christine Allen, Executive Director, CAFOD
 main_image_path: /uploads/building-organizational-resilience-cover.jpg
 videos:
   - videoid: AjSeUMYD9nk
@@ -51,3 +51,4 @@ _comments:
   article: check this if the publication is an article
   buy_url: Web address for purchasing the book
 ---
+######
