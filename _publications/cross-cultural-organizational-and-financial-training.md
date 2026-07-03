@@ -21,6 +21,11 @@ description_teaser_markdown: >-
   accessible way of designing, planning, delivering, and evaluating, when
   training across cultures. It suggests participatory approaches to training and
   learning which can be most effective cross-culturally.
+
+
+  [Book
+  endorsements](https://practicalactionpublishing.com/book/428/cross-cultural-organizational-and-financial-training
+  "Cross-Cultural Organizational..."){: target="_blank" rel="noopener"}
 publication_date: 2020-08-15 00:00:00
 publisher: Practical Action Publishing, UK
 buy_url: '  https://practicalactionpublishing.com/book/428/cross-cultural-organizational-and-financial-training'
