@@ -16,6 +16,11 @@ description_teaser_markdown: >-
   empower and support your organization to create a tailored resilience plan −
   one that fits your reality and positions your organization to thrive, no
   matter what challenges arise.
+
+
+  [Book
+  endorsements](https://practicalactionpublishing.com/book/3127/building-organizational-resilience
+  "Building Organizational Resilience"){: target="_blank" rel="noopener"}
 publication_date: 2026-07-31 00:00:00
 publisher: Practical Action Publishing, UK
 buy_url: >-
@@ -51,4 +56,3 @@ _comments:
   article: check this if the publication is an article
   buy_url: Web address for purchasing the book
 ---
-######
