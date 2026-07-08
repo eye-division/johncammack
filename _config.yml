@@ -85,6 +85,13 @@ social:
     desc: Connect with me on LinkedIn
     share: true
 
+  - name: WhatsApp
+    icon: fa-brands fa-whatsapp fa-2x
+    username: '+44 (0)7503 156069'
+    url: https://wa.me/447503156069
+    desc: Chat with me on WhatsApp
+    share: false
+
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com

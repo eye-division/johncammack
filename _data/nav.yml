@@ -52,10 +52,10 @@
 - title: "Resources"
   href: "/resources/"
   subcategories:
+    - subtitle: "Building resilience"
+      subhref: "/resources/building-organizational-resilience/"
     - subtitle: "Building capacity"
       subhref: "/resources/building-capacity/"
-    - subtitle: "Project budgeting"
-      subhref: "/resources/project-budgeting/"
     - subtitle: "Communicating finance"
       subhref: "/resources/communicating-finance/"
     - subtitle: "Cross cultural communication and training"
