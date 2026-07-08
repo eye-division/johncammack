@@ -11,6 +11,8 @@ description_teaser_markdown: >-
 publication_date: 1997-01-01 00:00:00
 publisher:
 permalink: /publications/development-in-practice/
+homepage: false
+homepage_teaser_markdown:
 main_image_path:
 _options:
   main_image_path:

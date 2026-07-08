@@ -2,7 +2,7 @@
 title: Managing cash flow
 subtitle: 'Footsteps, number 57'
 article: true
-buy_url: 
+buy_url:
 author: John Cammack
 description_html: >-
   <p>Many of us have experienced the situation where we have a bill to pay, but
@@ -19,6 +19,8 @@ description_teaser_markdown: >-
 publication_date:
 publisher:
 permalink: /publications/footsteps/
+homepage: false
+homepage_teaser_markdown:
 main_image_path:
 _options:
   main_image_path:

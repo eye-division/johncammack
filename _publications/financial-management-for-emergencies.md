@@ -9,6 +9,8 @@ description_teaser_markdown: >-
 publication_date:
 publisher:
 permalink: /publications/financial-management-for-emergencies/
+homepage: false
+homepage_teaser_markdown:
 main_image_path: /assets/images/FME logo.gif
 _options:
   main_image_path:

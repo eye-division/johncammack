@@ -10,6 +10,8 @@ description_teaser_markdown: >-
 publication_date: 2013-12-01 00:00:00
 publisher: Bond
 permalink: /publications/project-budgeting/
+homepage: false
+homepage_teaser_markdown:
 main_image_path:
 _options:
   main_image_path:

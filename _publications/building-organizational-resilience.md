@@ -25,7 +25,7 @@ publication_date: 2026-07-31 00:00:00
 publisher: Practical Action Publishing, UK
 buy_url: >-
   https://practicalactionpublishing.com/book/3127/building-organizational-resilience
-permalink: /publications
+permalink: /publications/building-organizational-resilience/
 homepage: true
 homepage_teaser_markdown: >-
   This book is a practical survival guide for leaders and development

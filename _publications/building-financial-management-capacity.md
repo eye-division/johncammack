@@ -18,6 +18,8 @@ description_teaser_markdown: >-
 publication_date: 2014-01-31 00:00:00
 publisher: Practical Action Publishing
 permalink: /publications/building-financial-management-capacity/
+homepage: false
+homepage_teaser_markdown:
 main_image_path: /userfiles/Building financial management capacity cover Jan 2014(1).jpg
 _options:
   main_image_path:
