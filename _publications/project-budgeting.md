@@ -13,6 +13,9 @@ permalink: /publications/project-budgeting/
 homepage: false
 homepage_teaser_markdown:
 main_image_path:
+videos:
+  - videoid:
+    description:
 _options:
   main_image_path:
     width: 1200

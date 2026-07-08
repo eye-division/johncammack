@@ -21,6 +21,9 @@ permalink: /publications/building-financial-management-capacity/
 homepage: false
 homepage_teaser_markdown:
 main_image_path: /userfiles/Building financial management capacity cover Jan 2014(1).jpg
+videos:
+  - videoid:
+    description:
 _options:
   main_image_path:
     width: 1200

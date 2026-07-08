@@ -14,6 +14,9 @@ permalink: /publications/financial-management-for-development/
 homepage: false
 homepage_teaser_markdown:
 main_image_path: /assets/images/FMD new cover Intrac.jpg
+videos:
+  - videoid:
+    description:
 _options:
   main_image_path:
     width: 1200
