@@ -16,7 +16,12 @@ description_teaser_markdown: >-
 publication_date: 2014-01-07 00:00:00
 publisher: Practical Action Publishing
 permalink: /publications/basic-accounting-for-community-organizations-and-small-groups/
+homepage: false
+homepage_teaser_markdown:
 main_image_path: /assets/images/books/basic_accounting.jpg
+videos:
+  - videoid:
+    description:
 _options:
   main_image_path:
     width: 1200

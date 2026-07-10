@@ -11,7 +11,12 @@ description_teaser_markdown: >-
 publication_date: 2000-03-01 00:00:00
 publisher: Intrac
 permalink: /publications/financial-management-for-development/
+homepage: false
+homepage_teaser_markdown:
 main_image_path: /assets/images/FMD new cover Intrac.jpg
+videos:
+  - videoid:
+    description:
 _options:
   main_image_path:
     width: 1200
@@ -27,6 +32,6 @@ _comments:
 
 Written for non-financial staff and members of governing bodies of NGOs, who need to understand financial systems and statements. This book shows records and statements used within organisations and how these can be interpreted. Chapters are also included on audit and financial controls. There are checklists given for analysing accounts and assessing financial systems. International variations in terminology and format and a comprehensive glossary are shown in appendices.
 
-For more details:  
-[Practical Action Publishing](https://developmentbookshop.com/financial-management-for-development-pb)  
+For more details:
+[Practical Action Publishing](https://developmentbookshop.com/financial-management-for-development-pb)
 Intrac NGOMP Series No.10, March 2000, ISBN 1-897748-52-33, £8.00

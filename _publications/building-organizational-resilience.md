@@ -25,7 +25,7 @@ publication_date: 2026-07-31 00:00:00
 publisher: Practical Action Publishing, UK
 buy_url: >-
   https://practicalactionpublishing.com/book/3127/building-organizational-resilience
-permalink: /publications
+permalink: /publications/building-organizational-resilience/
 homepage: true
 homepage_teaser_markdown: >-
   This book is a practical survival guide for leaders and development
@@ -37,13 +37,8 @@ homepage_teaser_markdown: >-
   />*Dr Christine Allen, Executive Director, CAFOD
 main_image_path: /uploads/building-organizational-resilience-cover.jpg
 videos:
-  - videoid: AjSeUMYD9nk
-    description: >-
-      Do you want to engage with people from cultures other than your own in
-      your training events? Are you looking to deliver training that is
-      memorable and transformative? Do you want all your participants to be
-      fully committed to the learning process? Are you new to delivering online
-      learning and want to know more?
+  - videoid:
+    description:
 _options:
   main_image_path:
     width: 1200

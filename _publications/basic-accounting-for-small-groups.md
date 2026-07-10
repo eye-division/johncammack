@@ -10,7 +10,12 @@ buy_url: 'https://www.abebooks.com/servlet/BookDetailsPL?bi=8395985298&searchurl
 publication_date: 2003-01-31 00:00:00
 publisher: Practical Action Publishing
 permalink: /publications/basic-accounting-for-small-groups/
+homepage: false
+homepage_teaser_markdown:
 main_image_path: /assets/images/books/basic_accounting_small_groups.jpg
+videos:
+  - videoid:
+    description:
 _options:
   main_image_path:
     width: 1200

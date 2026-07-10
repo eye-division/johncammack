@@ -14,7 +14,12 @@ description_teaser_markdown: >-
 publication_date: 2013-06-03 00:00:00
 publisher: Routledge and Intrac
 permalink: /publications/considered-choices-for-funding-decisions/
+homepage: false
+homepage_teaser_markdown:
 main_image_path:
+videos:
+  - videoid:
+    description:
 _options:
   main_image_path:
     width: 1200

@@ -16,7 +16,12 @@ description_teaser_markdown: >-
 publication_date: 2012-06-01 00:00:00
 publisher: Practical Action Publishing
 permalink: /publications/communicating-financial-management-with-non-finance-people/
+homepage: false
+homepage_teaser_markdown:
 main_image_path: /assets/images/books/communicating_financial_management.jpg
+videos:
+  - videoid:
+    description:
 _options:
   main_image_path:
     width: 1200
