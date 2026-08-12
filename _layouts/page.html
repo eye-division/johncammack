@@ -21,6 +21,23 @@ layout: default
       </figure>
     {% endif %}
 
+    {% if page.layout == "publication" and page.videos %}
+
+      {% for video in page.videos %}
+        {% if video.videoid %}
+          {% if video.videotype == 'Vimeo' %}
+            {% include vimeoplayer.html id=video.videoid %}
+          {% else %}
+            {% include youtubeplayer.html id=video.videoid %}
+          {% endif %}
+          {% if video.description %}
+            <p class="description">{{ video.description }}</p>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+    {% endif %}
+
     <article class="post-content">
       {{ content }}
     </article>
@@ -41,22 +58,24 @@ layout: default
       </section>
     {% endif %}
 
-    {% if page.videos %}
+    {% unless page.layout == "publication" %}
+      {% if page.videos %}
 
-      {% for video in page.videos %}
-        {% if video.videoid %}
-          {% if video.videotype == 'Vimeo' %}
-            {% include vimeoplayer.html id=video.videoid %}
-          {% else %}
-            {% include youtubeplayer.html id=video.videoid %}
+        {% for video in page.videos %}
+          {% if video.videoid %}
+            {% if video.videotype == 'Vimeo' %}
+              {% include vimeoplayer.html id=video.videoid %}
+            {% else %}
+              {% include youtubeplayer.html id=video.videoid %}
+            {% endif %}
+            {% if video.description %}
+              <p class="description">{{ video.description }}</p>
+            {% endif %}
           {% endif %}
-          {% if video.description %}
-            <p class="description">{{ video.description }}</p>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
+        {% endfor %}
 
-    {% endif %}
+      {% endif %}
+    {% endunless %}
 
 
   {% if page.aside %}
