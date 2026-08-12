@@ -63,4 +63,10 @@ _comments:
   homepage: show this on the homepage
   homepage_teaser_markdown: teaser text for homepage
 ---
-![](/uploads/cross-cultural-book-cover-jan-2020.png){: width="1292" height="910"}![](/uploads/cross-cultural-book-cover-june-2020.jpg)
+Do you want to engage with people from cultures other than your own in your training events? Are you looking to deliver training that is memorable and transformative? Do you want all your participants to be fully committed to the learning process? Are you new to delivering online training and want to know more?
+
+Trainers entering new cultures can find it difficult to build rapport, and to deliver sessions that are culturally appropriate. Participants may be not be using their first language to learn. All these questions can be challenging. However, training cross-culturally offers great opportunities to find ways of learning.
+
+*Cross-Cultural Organizational and Financial Training* offers a clear and accessible way of designing, planning, delivering, and evaluating, when training across cultures. It suggests participatory approaches to training and learning which can be most effective cross-culturally.
+
+[Book endorsements](https://practicalactionpublishing.com/book/428/cross-cultural-organizational-and-financial-training "Cross-Cultural Organizational..."){: target="_blank" rel="noopener"}
