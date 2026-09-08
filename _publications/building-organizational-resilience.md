@@ -51,3 +51,8 @@ _comments:
   article: check this if the publication is an article
   buy_url: Web address for purchasing the book
 ---
+<h1 data-editable="text" data-prop="title">{title}</h1>
+
+<section data-editable="source" data-path="/publications/building-organizational-resilience/" data-key="main"> 
+   <p>Extra editable page text</p>
+</section>
