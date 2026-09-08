@@ -2,29 +2,15 @@
 title: 'NEW: Building Organizational Resilience'
 subtitle: A guide for a secure future
 article: false
-description_teaser_markdown: >-
-  This book is a practical survival guide for leaders and development
-  practitioners who need to strengthen their organization’s resilience and
-  secure its long-term financial sustainability. In the current context of
-  significant reductions in all forms of funding, it provides a step-by-step
-  process to help you assess your organization, rethink your programmes, and
-  realign your work with the needs of partners and communities, so you can stay
-  true to your mission while adapting to change.
+description_teaser_markdown: |-
+  This book is a practical survival guide for leaders and development practitioners who need to strengthen their organization’s resilience and secure its long-term financial sustainability. In the current context of significant reductions in all forms of funding, it provides a step-by-step process to help you assess your organization, rethink your programmes, and realign your work with the needs of partners and communities, so you can stay true to your mission while adapting to change.
 
+  Recognising that every organization and its context is unique, the book will empower and support your organization to create a tailored resilience plan − one that fits your reality and positions your organization to thrive, no matter what challenges arise.
 
-  Recognising that every organization and its context is unique, the book will
-  empower and support your organization to create a tailored resilience plan −
-  one that fits your reality and positions your organization to thrive, no
-  matter what challenges arise.
-
-
-  [Book
-  endorsements](https://practicalactionpublishing.com/book/3127/building-organizational-resilience
-  "Building Organizational Resilience"){: target="_blank" rel="noopener"}
-publication_date: 2026-07-31 00:00:00
+  [Book endorsements](https://practicalactionpublishing.com/book/3127/building-organizational-resilience "Building Organizational Resilience"){: target="_blank" rel="noopener"}
+publication_date: 2026-07-31T00:00:00Z
 publisher: Practical Action Publishing, UK
-buy_url: >-
-  https://practicalactionpublishing.com/book/3127/building-organizational-resilience
+buy_url: https://practicalactionpublishing.com/book/3127/building-organizational-resilience
 permalink: /publications/building-organizational-resilience/
 homepage: true
 homepage_teaser_markdown: >-
@@ -51,6 +37,4 @@ _comments:
   article: check this if the publication is an article
   buy_url: Web address for purchasing the book
 ---
-<section data-editable="source" data-path="/_publications/building-organizational-resilience.md" data-key="main"> 
-    <p>Extra editable page text</p>
-</section>
+Edit page text here
