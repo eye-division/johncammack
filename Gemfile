@@ -1,10 +1,12 @@
-# A sample Gemfile
+
 source "https://rubygems.org"
 
-gem "jekyll", "~>3.6.0"
-gem "jekyll-sitemap", "~>0.8"
-#gem "autoprefixer-rails"
-#gem "jekyll-assets"
+# Ruby 3.4 no longer bundles these by default; jekyll/kramdown need them explicitly
+gem "webrick"
+gem "rexml"
+
+gem "jekyll", "~>4.3"
+gem "jekyll-sitemap", "~>1.4"
 
 gem "jekyll-seo-tag"
 
