@@ -49,6 +49,7 @@ body {
 .page-content {
     @include flex(1 0 auto);
     grid-area: page;
+    width: 100%;
 }
 
 section {
