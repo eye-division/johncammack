@@ -12,7 +12,7 @@ layout: default
       <h2 class="post-title">{{ page.title }}</h2>
     </header>
 
-    {% if page.main_image_path %}
+    {% if page.main_image_path and page.layout != "publication" %}
       <figure>
       {% assign alt_text = page.title %}
       {% if page.image_caption %} {% assign alt_text = page.image_caption %} {% endif %}
@@ -21,27 +21,10 @@ layout: default
       </figure>
     {% endif %}
 
-    {% if page.layout == "publication" and page.videos %}
-
-      {% for video in page.videos %}
-        {% if video.videoid %}
-          {% if video.videotype == 'Vimeo' %}
-            {% include vimeoplayer.html id=video.videoid %}
-          {% else %}
-            {% include youtubeplayer.html id=video.videoid %}
-          {% endif %}
-          {% if video.description %}
-            <p class="description">{{ video.description }}</p>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-
-    {% endif %}
-
     <article class="post-content">
-      
+
       {{ content }}
-   
+
     </article>
 
     {% if page.images[0].image_path %}
