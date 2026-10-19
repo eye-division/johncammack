@@ -1,13 +1,12 @@
 ---
 title: Basic Accounting for Small Groups
-subtitle: 'Second Edition, with Exercises for Individual and Group Learning'
+subtitle: Second Edition, with Exercises for Individual and Group Learning
 article: false
 author: John Cammack
-description_teaser_markdown: >-
-  Updated edition of Oxfam's step-by-step guide to basic accounting and
-  financial management techniques.
-buy_url: 'https://www.abebooks.com/servlet/BookDetailsPL?bi=8395985298&searchurl=sortby%3D93%26tn%3Dbasic%2Baccounting%2Bfor%2Bsmall%2Bgroups%26an%3Dcammack&cm_sp=snippet-_-srp1-_-title3'
-publication_date: 2003-01-31 00:00:00
+description_teaser_markdown: Updated edition of Oxfam's step-by-step guide to
+  basic accounting and financial management techniques.
+buy_url: https://www.abebooks.com/servlet/BookDetailsPL?bi=8395985298&searchurl=sortby%3D93%26tn%3Dbasic%2Baccounting%2Bfor%2Bsmall%2Bgroups%26an%3Dcammack&cm_sp=snippet-_-srp1-_-title3
+publication_date: 2003-01-31T00:00:00Z
 publisher: Practical Action Publishing
 permalink: /publications/basic-accounting-for-small-groups/
 homepage: false
@@ -28,13 +27,6 @@ _comments:
   article: check this if the publication is an article
   buy_url: Web address for purchasing the book
 ---
+Oxfam’s step-by-step guide to basic accounting and financial management   techniques updated edition. Each chapter contains training materials, which   may be used either with groups or for individual self-instruction. The book is  written in a clear and accessible style, aiming to build up expertise   systematically through examples and case studies. The text is suitable for   learners who have a lower level of English language skills: the activities and  exercises use multiple-choice and group-discussion formats, avoiding the need  for long written answers. Solutions are provided for all the   activities.
 
-Oxfam's step-by-step guide to basic accounting and financial management
-  techniques updated edition. Each chapter contains training materials, which
-  may be used either with groups or for individual self-instruction. The book is  written in a clear and accessible style, aiming to build up expertise
-  systematically through examples and case studies. The text is suitable for
-  learners who have a lower level of English language skills: the activities and  exercises use multiple-choice and group-discussion formats, avoiding the need  for long written answers. Solutions are provided for all the
-  activities.
-
-  For more details:
- <a target="_blank"  href="https://www.abebooks.com/servlet/BookDetailsPL?bi=8395985298&searchurl=sortby%3D93%26tn%3Dbasic%2Baccounting%2Bfor%2Bsmall%2Bgroups%26an%3Dcammack&cm_sp=snippet-_-srp1-_-title3">AbeBooks.com</a> (Australia and  Pacific) 146 pages, January 2003 ISBN  0-85598-473-2
+For more details:  [AbeBooks.com](https://www.abebooks.com/servlet/BookDetailsPL?bi=8395985298&amp;searchurl=sortby%3D93%26tn%3Dbasic%2Baccounting%2Bfor%2Bsmall%2Bgroups%26an%3Dcammack&amp;cm_sp=snippet-_-srp1-_-title3){: target="_blank" rel="noopener"} (Australia and  Pacific) 146 pages, January 2003 ISBN  0-85598-473-2
